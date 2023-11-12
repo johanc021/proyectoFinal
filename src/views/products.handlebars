@@ -1,0 +1,84 @@
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <h2>Seleccionar Carrito</h2>
+            <div id="cartList">
+                {{#if carts.length}}
+                    {{#each carts}}
+                    <div class="cart-item">
+                        <input type="checkbox" for="cart-{{this._id}}" id="cart-checkbox" data-cart-id="{{this._id}}">
+                        <label name="cart-{{this._id}}">Carrito: {{this._id}}</label>
+                        <p>Productos en el carrito: {{this.products.length}}</p>
+                    </div>
+                    {{/each}}
+                {{else}}
+                <p>No hay carritos disponibles.</p>
+                {{/if}}
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <h2 class="mb-4">Productos</h2>
+
+            <div class="d-flex gap-2">
+                {{#each products}}
+                <div class="card" style="width: 18rem;">
+                    <img src="{{thumbnail}}" class="card-img-top" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">{{title}}</h5>
+                        <p class="card-text">{{description}}</p>
+                        <p class="card-text"><strong>Código:</strong> {{code}}</p>
+                        <p class="card-text"><strong>Precio:</strong> {{price}}</p>
+                        <p class="card-text"><strong>Stock:</strong> {{stock}}</p>
+                        <p class="card-text"><strong>Categoría:</strong> {{category}}</p>
+
+                        <!-- Agregar un contador de cantidad -->
+                        <label for="quantity_{{_id}}">Cantidad:</label>
+                        <input style="width: 50px;" type="number" name="quantity_{{_id}}" id="quantity_{{_id}}" value="1" min="1">
+
+                        <a class="btn btn-primary" id="btn-add-to-cart" data-product-id="{{_id}}">Agregar al
+                            Carrito</a>
+                    </div>
+                </div>
+
+                {{/each}}
+            </div>
+
+            <div class="pagination justify-content-center mt-2 flex-wrap gap-2">
+                {{#if hasPrevPage}}
+                <a href="/products?page={{prevPage}}" class="btn btn-primary">Anterior</a>
+                {{/if}}
+
+                {{#if hasNextPage}}
+                <a href="/products?page={{nextPage}}" class="btn btn-primary">Siguiente</a>
+                {{/if}}
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para seleccionar el carrito -->
+{{!-- <div id="cartModal" class="modal container">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>Seleccionar Carrito</h2>
+        <div id="cartList">
+            {{#if carts.length}}
+                {{#each carts}}
+                <p>_id del carrito: {{this._id}}</p>
+                {{/each}}
+            {{else}}
+            <p>No hay carritos disponibles.</p>
+            {{/if}}
+        </div>
+    </div>
+</div> --}}
+
+
+        
+
+<script src="/js/addProductToCart.js"></script>
+{{!-- <script src="/js/cartModal.js"></script> --}}

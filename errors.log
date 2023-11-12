@@ -1,0 +1,1159 @@
+{"level":"debug","message":"Esto es un mensaje de debug","timestamp":"2023-09-19T20:29:24.412Z"}
+{"level":"http","message":"Esto es un mensaje HTTP","timestamp":"2023-09-19T20:29:24.413Z"}
+{"level":"info","message":"Esto es un mensaje de información","timestamp":"2023-09-19T20:29:24.413Z"}
+{"level":"warning","message":"Esto es un mensaje de advertencia","timestamp":"2023-09-19T20:29:24.413Z"}
+{"level":"error","message":"Esto es un mensaje de error","timestamp":"2023-09-19T20:29:24.414Z"}
+{"level":"fatal","message":"Esto es un mensaje fatal","timestamp":"2023-09-19T20:29:24.414Z"}
+{"level":"info","message":"Petición para POST en / - 12:19:55","timestamp":"2023-09-27T17:19:55.344Z"}
+{"level":"info","message":"Petición para POST en / - 12:21:49","timestamp":"2023-09-27T17:21:49.604Z"}
+{"level":"info","message":"Petición para POST en / - 12:22:19","timestamp":"2023-09-27T17:22:19.330Z"}
+{"level":"error","message":"Error en la petición para POST en / - El email ya existe en la base de datos - 12:22:19","timestamp":"2023-09-27T17:22:19.487Z"}
+{"level":"error","message":"Error en la petición para POST en / - ref is not defined - 14:37:53","timestamp":"2023-09-27T19:37:53.274Z"}
+{"level":"error","message":"Error en la petición para POST en / - ref is not defined - 14:41:03","timestamp":"2023-09-27T19:41:03.710Z"}
+{"level":"error","message":"Error en la petición para POST en / - ref is not defined - 14:56:52","timestamp":"2023-09-27T19:56:52.797Z"}
+{"level":"info","message":"Petición para POST en / - 15:04:59","timestamp":"2023-09-27T20:04:59.714Z"}
+{"level":"info","message":"Petición para POST en / - 15:24:22","timestamp":"2023-09-27T20:24:22.800Z"}
+{"level":"info","message":"Petición para POST en / - 08:51:13","timestamp":"2023-09-28T13:51:13.254Z"}
+{"level":"info","message":"Petición para POST en / - 08:52:25","timestamp":"2023-09-28T13:52:25.194Z"}
+{"level":"info","message":"Petición para DELETE en /651585198f13aff3c862d32f - 09:15:50","timestamp":"2023-09-28T14:15:50.790Z"}
+{"level":"error","message":"Error en la petición para DELETE en /651585198f13aff3c862d32f - Error al obtener el producto por ID - 09:16:19","timestamp":"2023-09-28T14:16:19.870Z"}
+{"level":"error","message":"Error en la petición para GET en /651585198f13aff3c862d32f - Error al obtener el producto por ID - 09:20:54","timestamp":"2023-09-28T14:20:54.279Z"}
+{"level":"error","message":"Error en la petición para GET en /651585198f13aff3c862d32f - Error al obtener el producto por ID - 09:23:26","timestamp":"2023-09-28T14:23:26.382Z"}
+{"level":"info","message":"Petición para POST en / - 09:35:39","timestamp":"2023-09-28T14:35:39.918Z"}
+{"level":"info","message":"Petición para DELETE en /65158f3bf93b010d335016cc - 09:36:37","timestamp":"2023-09-28T14:36:37.522Z"}
+{"level":"info","message":"Petición para POST en / - 09:59:23","timestamp":"2023-09-28T14:59:23.559Z"}
+{"level":"info","message":"Petición para DELETE en /651594cbed1c790873b36ce2 - 10:00:56","timestamp":"2023-09-28T15:00:56.278Z"}
+{"level":"error","message":"Error en la petición para GET en /651594cbed1c790873b36ce2 - Error al obtener el producto por ID - 10:01:08","timestamp":"2023-09-28T15:01:08.833Z"}
+{"level":"error","message":"Error en la petición para GET en /651594cbed1c790873b36ce2 - Error al obtener el producto por ID - 10:02:35","timestamp":"2023-09-28T15:02:35.141Z"}
+{"level":"error","message":"Error en la petición para GET en /651594cbed1c790873b36ce2 - Error al obtener el producto por ID - 10:02:45","timestamp":"2023-09-28T15:02:45.260Z"}
+{"level":"error","message":"Error en la petición para GET en /651594cbed1c790873b36ce2 - Error al obtener el producto por ID - 10:02:54","timestamp":"2023-09-28T15:02:54.417Z"}
+{"level":"error","message":"Error en la petición para GET en /651594cbed1c790873b36ce2 - Error al obtener el producto por ID - 10:10:24","timestamp":"2023-09-28T15:10:24.323Z"}
+{"level":"error","message":"Error en la petición para GET en /651594cbed1c790873b36ce2 - Error al obtener el producto por ID - 10:10:34","timestamp":"2023-09-28T15:10:34.171Z"}
+{"level":"info","message":"Petición para POST en / - 10:10:54","timestamp":"2023-09-28T15:10:54.581Z"}
+{"level":"info","message":"Petición para DELETE en /6515977e3d8cbf3490531e09 - 10:11:32","timestamp":"2023-09-28T15:11:32.009Z"}
+{"level":"info","message":"Petición para POST en / - 10:11:56","timestamp":"2023-09-28T15:11:56.353Z"}
+{"level":"info","message":"Petición para GET en / - 10:35:09","timestamp":"2023-09-28T15:35:09.256Z"}
+{"level":"info","message":"Petición para POST en / - 20:14:26","timestamp":"2023-09-29T01:14:26.248Z"}
+{"level":"info","message":"Petición para DELETE en /651624f2b1ed9bbcefc58c4d - 20:16:36","timestamp":"2023-09-29T01:16:36.193Z"}
+{"level":"info","message":"Petición para POST en / - 20:19:32","timestamp":"2023-09-29T01:19:32.389Z"}
+{"level":"info","message":"Petición para DELETE en /6516262489f8bdf9bf8df77a - 20:19:47","timestamp":"2023-09-29T01:19:47.187Z"}
+{"level":"info","message":"Petición para GET en / - 20:41:20","timestamp":"2023-09-29T01:41:20.841Z"}
+{"level":"info","message":"Petición para GET en / - 20:41:35","timestamp":"2023-09-29T01:41:35.398Z"}
+{"level":"info","message":"Petición para POST en / - 20:43:40","timestamp":"2023-09-29T01:43:40.186Z"}
+{"level":"info","message":"Petición para POST en / - 20:45:40","timestamp":"2023-09-29T01:45:40.408Z"}
+{"level":"info","message":"Petición para POST en / - 20:46:37","timestamp":"2023-09-29T01:46:37.923Z"}
+{"level":"info","message":"Petición para POST en / - 20:47:11","timestamp":"2023-09-29T01:47:11.747Z"}
+{"level":"info","message":"Petición para POST en / - 20:49:16","timestamp":"2023-09-29T01:49:16.003Z"}
+{"level":"info","message":"Petición para POST en / - 20:51:52","timestamp":"2023-09-29T01:51:52.845Z"}
+{"level":"error","message":"Error en la petición para POST en / - this.dao.getIdUserByEmail is not a function - 20:55:22","timestamp":"2023-09-29T01:55:22.551Z"}
+{"level":"error","message":"Error en la petición para POST en / - this.dao.getIdUserByEmail is not a function - 20:56:02","timestamp":"2023-09-29T01:56:02.134Z"}
+{"level":"error","message":"Error en la petición para POST en / - Cannot read properties of undefined (reading 'getUserByEmail') - 20:58:56","timestamp":"2023-09-29T01:58:56.364Z"}
+{"level":"error","message":"Error en la petición para POST en / - this.dao.getIdUserByEmail is not a function - 21:00:08","timestamp":"2023-09-29T02:00:08.920Z"}
+{"level":"error","message":"Error en la petición para POST en / - this.dao.getIdUserByEmail is not a function - 21:02:03","timestamp":"2023-09-29T02:02:03.199Z"}
+{"level":"info","message":"Petición para POST en / - 21:02:28","timestamp":"2023-09-29T02:02:28.878Z"}
+{"level":"error","message":"Error en la petición para POST en / - this.dao.getIdUserByEmail is not a function - 21:03:19","timestamp":"2023-09-29T02:03:19.734Z"}
+{"level":"error","message":"Error en la petición para GET en /byEmail/facjohan@hotmail.com - this.dao.getIdUserByEmail is not a function - 21:04:03","timestamp":"2023-09-29T02:04:03.194Z"}
+{"level":"info","message":"Petición para POST en / - 21:04:40","timestamp":"2023-09-29T02:04:40.596Z"}
+{"level":"info","message":"Petición para POST en / - 21:07:01","timestamp":"2023-09-29T02:07:01.231Z"}
+{"level":"info","message":"Petición para POST en / - 21:15:24","timestamp":"2023-09-29T02:15:24.819Z"}
+{"level":"info","message":"Petición para GET en / - 21:22:57","timestamp":"2023-09-29T02:22:57.519Z"}
+{"level":"info","message":"Petición para DELETE en /64e772d0c297bba756595a5e/products/64f48930ee1585ccc57ef493 - 21:23:35","timestamp":"2023-09-29T02:23:35.727Z"}
+{"level":"info","message":"Petición para GET en / - 21:24:53","timestamp":"2023-09-29T02:24:53.328Z"}
+{"level":"info","message":"Petición para DELETE en /64e772d0c297bba756595a5e - 21:25:07","timestamp":"2023-09-29T02:25:07.357Z"}
+{"level":"info","message":"Petición para DELETE en /64e77319c297bba756595a6a - 21:25:29","timestamp":"2023-09-29T02:25:29.463Z"}
+{"level":"info","message":"Petición para GET en / - 21:25:40","timestamp":"2023-09-29T02:25:40.212Z"}
+{"level":"info","message":"Petición para POST en / - 21:26:13","timestamp":"2023-09-29T02:26:13.104Z"}
+{"level":"info","message":"Petición para POST en / - 21:26:37","timestamp":"2023-09-29T02:26:37.058Z"}
+{"level":"info","message":"Petición para POST en / - 21:26:56","timestamp":"2023-09-29T02:26:56.112Z"}
+{"level":"info","message":"Petición para POST en / - 21:28:06","timestamp":"2023-09-29T02:28:06.735Z"}
+{"level":"info","message":"Petición para GET en / - 21:37:11","timestamp":"2023-09-29T02:37:11.198Z"}
+{"level":"info","message":"Petición para DELETE en /64e77319c297bba756595a6a - 21:37:20","timestamp":"2023-09-29T02:37:20.802Z"}
+{"level":"error","message":"Error en la petición para POST en / - Error al obtener el producto por ID - 21:37:40","timestamp":"2023-09-29T02:37:40.058Z"}
+{"level":"info","message":"Petición para POST en / - 21:38:21","timestamp":"2023-09-29T02:38:21.106Z"}
+{"level":"info","message":"Petición para POST en /premium/6516197b6a525e8ad4f6687b - 21:51:30","timestamp":"2023-09-29T02:51:30.137Z"}
+{"level":"info","message":"Petición para GET en /premium/6516197b6a525e8ad4f6687b - 21:52:00","timestamp":"2023-09-29T02:52:00.367Z"}
+{"level":"info","message":"Petición para POST en /premium/6516197b6a525e8ad4f6687b - 21:55:04","timestamp":"2023-09-29T02:55:04.668Z"}
+{"level":"info","message":"Petición para POST en /premium/6516197b6a525e8ad4f6687b - 21:56:33","timestamp":"2023-09-29T02:56:33.437Z"}
+{"level":"info","message":"Petición para POST en /premium/6516197b6a525e8ad4f6687b - 22:03:40","timestamp":"2023-09-29T03:03:40.936Z"}
+{"level":"info","message":"Petición para POST en /premium/6516197b6a525e8ad4f6687b - 22:04:07","timestamp":"2023-09-29T03:04:07.458Z"}
+{"level":"info","message":"Petición para GET en / - 08:43:31","timestamp":"2023-10-01T13:43:31.612Z"}
+{"level":"info","message":"Petición para GET en / - 08:43:36","timestamp":"2023-10-01T13:43:36.295Z"}
+{"level":"info","message":"Petición para GET en / - 08:53:53","timestamp":"2023-10-01T13:53:53.285Z"}
+{"level":"info","message":"Petición para GET en / - 08:54:43","timestamp":"2023-10-01T13:54:43.525Z"}
+{"level":"info","message":"Petición para GET en / - 19:19:50","timestamp":"2023-10-02T00:19:50.104Z"}
+{"level":"info","message":"Petición para GET en / - 19:19:51","timestamp":"2023-10-02T00:19:51.368Z"}
+{"level":"info","message":"Petición para GET en / - 19:31:09","timestamp":"2023-10-02T00:31:09.704Z"}
+{"level":"info","message":"Petición para GET en /64e77319c297bba756595a6a - 19:32:39","timestamp":"2023-10-02T00:32:39.988Z"}
+{"level":"info","message":"Petición para GET en / - 20:51:00","timestamp":"2023-10-02T01:51:00.445Z"}
+{"level":"info","message":"Petición para GET en /64e772d0c297bba756595a5e - 20:57:10","timestamp":"2023-10-02T01:57:10.195Z"}
+{"level":"info","message":"Petición para GET en /64e772d0c297bba756595a5e - 13:11:28","timestamp":"2023-10-02T18:11:28.890Z"}
+{"level":"info","message":"Petición para PUT en /64e772d0c297bba756595a5e - 13:12:10","timestamp":"2023-10-02T18:12:10.766Z"}
+{"level":"info","message":"Petición para POST en / - 08:54:51","timestamp":"2023-10-08T13:54:51.775Z"}
+{"level":"info","message":"Petición para POST en / - 10:48:20","timestamp":"2023-10-08T15:48:20.532Z"}
+{"level":"info","message":"Petición para POST en / - 10:49:34","timestamp":"2023-10-08T15:49:34.981Z"}
+{"level":"info","message":"Petición para POST en / - 10:51:46","timestamp":"2023-10-08T15:51:46.522Z"}
+{"level":"info","message":"Petición para POST en / - 11:21:48","timestamp":"2023-10-08T16:21:49.012Z"}
+{"level":"info","message":"Petición para POST en / - 11:25:49","timestamp":"2023-10-08T16:25:49.207Z"}
+{"level":"info","message":"Petición para POST en / - 11:26:16","timestamp":"2023-10-08T16:26:16.286Z"}
+{"level":"info","message":"Petición para POST en / - 11:32:13","timestamp":"2023-10-08T16:32:13.614Z"}
+{"level":"info","message":"Petición para GET en / - 11:33:16","timestamp":"2023-10-08T16:33:16.145Z"}
+{"level":"info","message":"Petición para POST en / - 11:35:48","timestamp":"2023-10-08T16:35:48.294Z"}
+{"level":"error","message":"Error en la petición para POST en / - Los parametros son incorrectos. - 11:35:48","timestamp":"2023-10-08T16:35:48.307Z"}
+{"level":"info","message":"Petición para POST en / - 11:38:01","timestamp":"2023-10-08T16:38:01.553Z"}
+{"level":"info","message":"Petición para GET en / - 11:38:01","timestamp":"2023-10-08T16:38:01.645Z"}
+{"level":"info","message":"Petición para POST en / - 11:43:57","timestamp":"2023-10-08T16:43:57.891Z"}
+{"level":"info","message":"Petición para GET en / - 11:43:57","timestamp":"2023-10-08T16:43:57.974Z"}
+{"level":"info","message":"Petición para POST en / - 11:57:45","timestamp":"2023-10-08T16:57:45.945Z"}
+{"level":"info","message":"Petición para GET en / - 11:57:46","timestamp":"2023-10-08T16:57:46.029Z"}
+{"level":"info","message":"Petición para POST en / - 12:00:08","timestamp":"2023-10-08T17:00:08.028Z"}
+{"level":"info","message":"Petición para GET en / - 12:00:08","timestamp":"2023-10-08T17:00:08.117Z"}
+{"level":"info","message":"Petición para POST en / - 12:00:34","timestamp":"2023-10-08T17:00:34.875Z"}
+{"level":"info","message":"Petición para GET en / - 12:00:34","timestamp":"2023-10-08T17:00:34.967Z"}
+{"level":"info","message":"Petición para POST en / - 12:13:58","timestamp":"2023-10-08T17:13:58.752Z"}
+{"level":"info","message":"Petición para GET en / - 12:13:58","timestamp":"2023-10-08T17:13:58.846Z"}
+{"level":"info","message":"Petición para POST en / - 12:18:42","timestamp":"2023-10-08T17:18:42.844Z"}
+{"level":"info","message":"Petición para GET en / - 12:18:42","timestamp":"2023-10-08T17:18:42.930Z"}
+{"level":"info","message":"Petición para PUT en /6522dc4d10dc11165370ecf9 - 12:18:43","timestamp":"2023-10-08T17:18:43.140Z"}
+{"level":"info","message":"Petición para POST en / - 12:21:36","timestamp":"2023-10-08T17:21:36.279Z"}
+{"level":"info","message":"Petición para GET en / - 12:21:36","timestamp":"2023-10-08T17:21:36.361Z"}
+{"level":"info","message":"Petición para PUT en /6522dc4d10dc11165370ecf9 - 12:21:36","timestamp":"2023-10-08T17:21:36.548Z"}
+{"level":"info","message":"Petición para POST en / - 12:34:53","timestamp":"2023-10-08T17:34:53.991Z"}
+{"level":"info","message":"Petición para GET en / - 12:34:54","timestamp":"2023-10-08T17:34:54.087Z"}
+{"level":"error","message":"Error en la petición para GET en /6522dc4d10dc11165370ecf9 - Error al obtener el producto por ID - 12:34:54","timestamp":"2023-10-08T17:34:54.170Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32db - 12:34:54","timestamp":"2023-10-08T17:34:54.279Z"}
+{"level":"info","message":"Petición para POST en / - 12:35:40","timestamp":"2023-10-08T17:35:40.477Z"}
+{"level":"info","message":"Petición para GET en / - 12:35:40","timestamp":"2023-10-08T17:35:40.555Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32db - 12:35:40","timestamp":"2023-10-08T17:35:40.728Z"}
+{"level":"info","message":"Petición para POST en / - 12:36:17","timestamp":"2023-10-08T17:36:17.741Z"}
+{"level":"info","message":"Petición para GET en / - 12:36:17","timestamp":"2023-10-08T17:36:17.830Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32db - 12:36:18","timestamp":"2023-10-08T17:36:18.003Z"}
+{"level":"info","message":"Petición para POST en / - 12:49:33","timestamp":"2023-10-08T17:49:33.819Z"}
+{"level":"info","message":"Petición para GET en / - 12:49:33","timestamp":"2023-10-08T17:49:33.897Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32db - 12:49:34","timestamp":"2023-10-08T17:49:34.072Z"}
+{"level":"info","message":"Petición para POST en / - 12:49:43","timestamp":"2023-10-08T17:49:43.695Z"}
+{"level":"info","message":"Petición para GET en / - 12:49:43","timestamp":"2023-10-08T17:49:43.774Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32db - 12:49:43","timestamp":"2023-10-08T17:49:43.933Z"}
+{"level":"info","message":"Petición para POST en / - 12:50:46","timestamp":"2023-10-08T17:50:46.626Z"}
+{"level":"info","message":"Petición para GET en / - 12:50:46","timestamp":"2023-10-08T17:50:46.705Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32db - 12:50:46","timestamp":"2023-10-08T17:50:46.863Z"}
+{"level":"info","message":"Petición para DELETE en /6522e7c29440da5fa4ce32db - 12:50:47","timestamp":"2023-10-08T17:50:47.021Z"}
+{"level":"info","message":"Petición para POST en / - 12:53:22","timestamp":"2023-10-08T17:53:22.942Z"}
+{"level":"info","message":"Petición para GET en / - 12:53:23","timestamp":"2023-10-08T17:53:23.033Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32db - 12:53:23","timestamp":"2023-10-08T17:53:23.190Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32db - Error al obtener el producto por ID - 12:53:23","timestamp":"2023-10-08T17:53:23.272Z"}
+{"level":"info","message":"Petición para POST en / - 12:59:47","timestamp":"2023-10-08T17:59:47.516Z"}
+{"level":"info","message":"Petición para GET en / - 12:59:47","timestamp":"2023-10-08T17:59:47.596Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32db - 12:59:47","timestamp":"2023-10-08T17:59:47.761Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32db - Error al obtener el producto por ID - 12:59:47","timestamp":"2023-10-08T17:59:47.839Z"}
+{"level":"info","message":"Petición para POST en / - 13:04:20","timestamp":"2023-10-08T18:04:20.558Z"}
+{"level":"info","message":"Petición para GET en / - 13:04:20","timestamp":"2023-10-08T18:04:20.655Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32dc - 13:04:20","timestamp":"2023-10-08T18:04:20.835Z"}
+{"level":"info","message":"Petición para DELETE en /6522e7c29440da5fa4ce32dc - 13:04:20","timestamp":"2023-10-08T18:04:20.995Z"}
+{"level":"info","message":"Petición para POST en / - 13:24:32","timestamp":"2023-10-08T18:24:32.687Z"}
+{"level":"info","message":"Petición para GET en / - 13:24:32","timestamp":"2023-10-08T18:24:32.766Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e1 - 13:24:32","timestamp":"2023-10-08T18:24:32.952Z"}
+{"level":"info","message":"Petición para DELETE en /6522e7c29440da5fa4ce32e1 - 13:24:33","timestamp":"2023-10-08T18:24:33.120Z"}
+{"level":"info","message":"Petición para POST en / - 13:26:34","timestamp":"2023-10-08T18:26:34.887Z"}
+{"level":"info","message":"Petición para GET en / - 13:26:34","timestamp":"2023-10-08T18:26:34.969Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e1 - Error al obtener el producto por ID - 13:26:35","timestamp":"2023-10-08T18:26:35.053Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e1 - 13:26:35","timestamp":"2023-10-08T18:26:35.135Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e1 - Error al obtener el producto por ID - 13:26:35","timestamp":"2023-10-08T18:26:35.212Z"}
+{"level":"info","message":"Petición para POST en / - 13:27:13","timestamp":"2023-10-08T18:27:13.351Z"}
+{"level":"info","message":"Petición para GET en / - 13:27:13","timestamp":"2023-10-08T18:27:13.436Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 13:27:13","timestamp":"2023-10-08T18:27:13.613Z"}
+{"level":"info","message":"Petición para DELETE en /6522e7c29440da5fa4ce32e2 - 13:27:13","timestamp":"2023-10-08T18:27:13.774Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 13:27:47","timestamp":"2023-10-08T18:27:47.472Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 13:28:21","timestamp":"2023-10-08T18:28:21.117Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 13:37:06","timestamp":"2023-10-08T18:37:06.158Z"}
+{"level":"info","message":"Petición para POST en / - 13:38:17","timestamp":"2023-10-08T18:38:17.675Z"}
+{"level":"info","message":"Petición para GET en / - 13:38:17","timestamp":"2023-10-08T18:38:17.768Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 13:38:17","timestamp":"2023-10-08T18:38:17.848Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 13:38:17","timestamp":"2023-10-08T18:38:17.954Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 13:38:18","timestamp":"2023-10-08T18:38:18.033Z"}
+{"level":"info","message":"Petición para POST en / - 14:50:53","timestamp":"2023-10-08T19:50:53.922Z"}
+{"level":"info","message":"Petición para GET en / - 14:50:54","timestamp":"2023-10-08T19:50:54.023Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:50:54","timestamp":"2023-10-08T19:50:54.107Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 14:50:54","timestamp":"2023-10-08T19:50:54.201Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:50:54","timestamp":"2023-10-08T19:50:54.301Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 14:50:54","timestamp":"2023-10-08T19:50:54.403Z"}
+{"level":"info","message":"Petición para POST en / - 15:01:23","timestamp":"2023-10-08T20:01:23.379Z"}
+{"level":"info","message":"Petición para GET en / - 15:01:23","timestamp":"2023-10-08T20:01:23.461Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:01:23","timestamp":"2023-10-08T20:01:23.540Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:01:23","timestamp":"2023-10-08T20:01:23.630Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:01:23","timestamp":"2023-10-08T20:01:23.715Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:01:23","timestamp":"2023-10-08T20:01:23.814Z"}
+{"level":"info","message":"Petición para POST en / - 15:07:59","timestamp":"2023-10-08T20:07:59.203Z"}
+{"level":"info","message":"Petición para GET en / - 15:07:59","timestamp":"2023-10-08T20:07:59.289Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:07:59","timestamp":"2023-10-08T20:07:59.373Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:07:59","timestamp":"2023-10-08T20:07:59.469Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:07:59","timestamp":"2023-10-08T20:07:59.559Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:07:59","timestamp":"2023-10-08T20:07:59.676Z"}
+{"level":"info","message":"Petición para POST en / - 15:10:24","timestamp":"2023-10-08T20:10:24.250Z"}
+{"level":"info","message":"Petición para GET en / - 15:10:24","timestamp":"2023-10-08T20:10:24.337Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:10:24","timestamp":"2023-10-08T20:10:24.421Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:10:24","timestamp":"2023-10-08T20:10:24.515Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:10:24","timestamp":"2023-10-08T20:10:24.601Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:10:24","timestamp":"2023-10-08T20:10:24.695Z"}
+{"level":"info","message":"Petición para GET en / - 15:11:11","timestamp":"2023-10-08T20:11:11.871Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:11:11","timestamp":"2023-10-08T20:11:11.953Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:11:12","timestamp":"2023-10-08T20:11:12.069Z"}
+{"level":"info","message":"Petición para POST en / - 15:16:06","timestamp":"2023-10-08T20:16:06.140Z"}
+{"level":"info","message":"Petición para GET en / - 15:16:06","timestamp":"2023-10-08T20:16:06.231Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:16:06","timestamp":"2023-10-08T20:16:06.313Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:16:06","timestamp":"2023-10-08T20:16:06.402Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:16:06","timestamp":"2023-10-08T20:16:06.494Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:16:06","timestamp":"2023-10-08T20:16:06.591Z"}
+{"level":"info","message":"Petición para POST en / - 15:19:33","timestamp":"2023-10-08T20:19:33.966Z"}
+{"level":"info","message":"Petición para GET en / - 15:19:34","timestamp":"2023-10-08T20:19:34.054Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:19:34","timestamp":"2023-10-08T20:19:34.147Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:19:34","timestamp":"2023-10-08T20:19:34.240Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:19:34","timestamp":"2023-10-08T20:19:34.332Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:19:34","timestamp":"2023-10-08T20:19:34.430Z"}
+{"level":"info","message":"Petición para GET en / - 15:28:56","timestamp":"2023-10-08T20:28:56.876Z"}
+{"level":"info","message":"Petición para POST en / - 15:28:56","timestamp":"2023-10-08T20:28:56.989Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:28:57","timestamp":"2023-10-08T20:28:57.094Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:28:57","timestamp":"2023-10-08T20:28:57.214Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:28:57","timestamp":"2023-10-08T20:28:57.305Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:28:57","timestamp":"2023-10-08T20:28:57.409Z"}
+{"level":"info","message":"Petición para GET en / - 15:29:18","timestamp":"2023-10-08T20:29:18.162Z"}
+{"level":"info","message":"Petición para POST en / - 15:29:18","timestamp":"2023-10-08T20:29:18.258Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:29:18","timestamp":"2023-10-08T20:29:18.344Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:29:18","timestamp":"2023-10-08T20:29:18.432Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:29:18","timestamp":"2023-10-08T20:29:18.514Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:29:18","timestamp":"2023-10-08T20:29:18.611Z"}
+{"level":"info","message":"Petición para GET en / - 22:05:28","timestamp":"2023-10-09T03:05:28.609Z"}
+{"level":"info","message":"Petición para POST en / - 22:05:28","timestamp":"2023-10-09T03:05:28.730Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 22:05:28","timestamp":"2023-10-09T03:05:28.824Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 22:05:28","timestamp":"2023-10-09T03:05:28.943Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 22:05:29","timestamp":"2023-10-09T03:05:29.044Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 22:05:29","timestamp":"2023-10-09T03:05:29.134Z"}
+{"level":"error","message":"Error en la petición para POST en / - Error al obtener el producto por ID - 09:35:15","timestamp":"2023-10-09T14:35:15.623Z"}
+{"level":"error","message":"Error en la petición para POST en / - Error al obtener el producto por ID - 09:36:09","timestamp":"2023-10-09T14:36:09.484Z"}
+{"level":"info","message":"Petición para POST en / - 09:36:28","timestamp":"2023-10-09T14:36:28.768Z"}
+{"level":"info","message":"Petición para POST en / - 09:48:43","timestamp":"2023-10-09T14:48:43.301Z"}
+{"level":"info","message":"Petición para POST en / - 09:49:19","timestamp":"2023-10-09T14:49:19.134Z"}
+{"level":"info","message":"Petición para GET en / - 09:52:58","timestamp":"2023-10-09T14:52:58.098Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 09:52:58","timestamp":"2023-10-09T14:52:58.299Z"}
+{"level":"info","message":"Petición para GET en / - 09:52:58","timestamp":"2023-10-09T14:52:58.399Z"}
+{"level":"info","message":"Petición para POST en / - 09:52:58","timestamp":"2023-10-09T14:52:58.515Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:52:58","timestamp":"2023-10-09T14:52:58.614Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:52:58","timestamp":"2023-10-09T14:52:58.721Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:52:58","timestamp":"2023-10-09T14:52:58.821Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 09:52:58","timestamp":"2023-10-09T14:52:58.923Z"}
+{"level":"info","message":"Petición para GET en / - 14:53:21","timestamp":"2023-10-09T19:53:21.026Z"}
+{"level":"info","message":"Petición para GET en / - 14:53:56","timestamp":"2023-10-09T19:53:56.693Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 14:53:56","timestamp":"2023-10-09T19:53:56.888Z"}
+{"level":"info","message":"Petición para GET en / - 14:53:56","timestamp":"2023-10-09T19:53:57.000Z"}
+{"level":"info","message":"Petición para POST en / - 14:53:57","timestamp":"2023-10-09T19:53:57.129Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:53:57","timestamp":"2023-10-09T19:53:57.230Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 14:53:57","timestamp":"2023-10-09T19:53:57.339Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:53:57","timestamp":"2023-10-09T19:53:57.439Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 14:53:57","timestamp":"2023-10-09T19:53:57.550Z"}
+{"level":"info","message":"Petición para GET en / - 14:55:11","timestamp":"2023-10-09T19:55:11.524Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 14:55:11","timestamp":"2023-10-09T19:55:11.726Z"}
+{"level":"info","message":"Petición para GET en / - 14:55:11","timestamp":"2023-10-09T19:55:11.847Z"}
+{"level":"info","message":"Petición para POST en / - 14:55:11","timestamp":"2023-10-09T19:55:11.970Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:55:12","timestamp":"2023-10-09T19:55:12.086Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 14:55:12","timestamp":"2023-10-09T19:55:12.191Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:55:12","timestamp":"2023-10-09T19:55:12.289Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 14:55:12","timestamp":"2023-10-09T19:55:12.391Z"}
+{"level":"info","message":"Petición para GET en / - 14:55:37","timestamp":"2023-10-09T19:55:37.267Z"}
+{"level":"info","message":"Petición para GET en / - 14:56:23","timestamp":"2023-10-09T19:56:23.175Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 14:56:23","timestamp":"2023-10-09T19:56:23.376Z"}
+{"level":"info","message":"Petición para GET en / - 14:56:23","timestamp":"2023-10-09T19:56:23.512Z"}
+{"level":"info","message":"Petición para POST en / - 14:56:23","timestamp":"2023-10-09T19:56:23.628Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:56:23","timestamp":"2023-10-09T19:56:23.742Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 14:56:23","timestamp":"2023-10-09T19:56:23.846Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:56:23","timestamp":"2023-10-09T19:56:23.946Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 14:56:24","timestamp":"2023-10-09T19:56:24.066Z"}
+{"level":"info","message":"Petición para GET en / - 14:56:40","timestamp":"2023-10-09T19:56:40.923Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 14:56:41","timestamp":"2023-10-09T19:56:41.127Z"}
+{"level":"info","message":"Petición para GET en / - 14:56:41","timestamp":"2023-10-09T19:56:41.259Z"}
+{"level":"info","message":"Petición para POST en / - 14:56:41","timestamp":"2023-10-09T19:56:41.370Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:56:41","timestamp":"2023-10-09T19:56:41.472Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 14:56:41","timestamp":"2023-10-09T19:56:41.600Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 14:56:41","timestamp":"2023-10-09T19:56:41.702Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 14:56:41","timestamp":"2023-10-09T19:56:41.819Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/65240fecbe28a707f53c95bb - 14:57:30","timestamp":"2023-10-09T19:57:30.463Z"}
+{"level":"info","message":"Petición para GET en / - 14:57:35","timestamp":"2023-10-09T19:57:35.393Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ea - 14:57:56","timestamp":"2023-10-09T19:57:56.340Z"}
+{"level":"info","message":"Petición para GET en / - 15:03:02","timestamp":"2023-10-09T20:03:02.528Z"}
+{"level":"info","message":"Petición para GET en / - 15:03:39","timestamp":"2023-10-09T20:03:39.851Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:03:40","timestamp":"2023-10-09T20:03:40.066Z"}
+{"level":"info","message":"Petición para GET en / - 15:03:40","timestamp":"2023-10-09T20:03:40.186Z"}
+{"level":"info","message":"Petición para POST en / - 15:03:40","timestamp":"2023-10-09T20:03:40.300Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:03:40","timestamp":"2023-10-09T20:03:40.421Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:03:40","timestamp":"2023-10-09T20:03:40.547Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:03:40","timestamp":"2023-10-09T20:03:40.645Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:03:40","timestamp":"2023-10-09T20:03:40.750Z"}
+{"level":"info","message":"Petición para GET en / - 15:04:22","timestamp":"2023-10-09T20:04:22.745Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:04:22","timestamp":"2023-10-09T20:04:22.943Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32ee - 15:04:23","timestamp":"2023-10-09T20:04:23.176Z"}
+{"level":"info","message":"Petición para GET en / - 15:04:23","timestamp":"2023-10-09T20:04:23.280Z"}
+{"level":"info","message":"Petición para POST en / - 15:04:23","timestamp":"2023-10-09T20:04:23.409Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:04:23","timestamp":"2023-10-09T20:04:23.515Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:04:23","timestamp":"2023-10-09T20:04:23.649Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:04:23","timestamp":"2023-10-09T20:04:23.757Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:04:23","timestamp":"2023-10-09T20:04:23.861Z"}
+{"level":"info","message":"Petición para GET en / - 15:07:42","timestamp":"2023-10-09T20:07:42.127Z"}
+{"level":"info","message":"Petición para GET en / - 15:21:52","timestamp":"2023-10-09T20:21:52.131Z"}
+{"level":"info","message":"Petición para GET en / - 15:22:25","timestamp":"2023-10-09T20:22:25.422Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:22:25","timestamp":"2023-10-09T20:22:25.618Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32ee - 15:22:25","timestamp":"2023-10-09T20:22:25.724Z"}
+{"level":"info","message":"Petición para POST en / - 15:22:26","timestamp":"2023-10-09T20:22:26.213Z"}
+{"level":"info","message":"Petición para GET en / - 15:22:26","timestamp":"2023-10-09T20:22:26.316Z"}
+{"level":"info","message":"Petición para POST en / - 15:22:26","timestamp":"2023-10-09T20:22:26.421Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:22:26","timestamp":"2023-10-09T20:22:26.521Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:22:26","timestamp":"2023-10-09T20:22:26.629Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:22:26","timestamp":"2023-10-09T20:22:26.727Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:22:26","timestamp":"2023-10-09T20:22:26.827Z"}
+{"level":"info","message":"Petición para POST en / - 15:23:11","timestamp":"2023-10-09T20:23:11.084Z"}
+{"level":"info","message":"Petición para GET en / - 15:23:16","timestamp":"2023-10-09T20:23:16.722Z"}
+{"level":"info","message":"Petición para GET en / - 15:25:16","timestamp":"2023-10-09T20:25:16.333Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:25:16","timestamp":"2023-10-09T20:25:16.533Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32ee - 15:25:16","timestamp":"2023-10-09T20:25:16.646Z"}
+{"level":"info","message":"Petición para POST en / - 15:25:17","timestamp":"2023-10-09T20:25:17.236Z"}
+{"level":"info","message":"Petición para GET en / - 15:25:17","timestamp":"2023-10-09T20:25:17.339Z"}
+{"level":"info","message":"Petición para POST en / - 15:25:17","timestamp":"2023-10-09T20:25:17.446Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:25:17","timestamp":"2023-10-09T20:25:17.555Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:25:17","timestamp":"2023-10-09T20:25:17.662Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:25:17","timestamp":"2023-10-09T20:25:17.795Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:25:17","timestamp":"2023-10-09T20:25:17.895Z"}
+{"level":"info","message":"Petición para GET en / - 15:28:05","timestamp":"2023-10-09T20:28:05.430Z"}
+{"level":"info","message":"Petición para GET en / - 15:28:23","timestamp":"2023-10-09T20:28:23.805Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:28:24","timestamp":"2023-10-09T20:28:24.011Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32ee - 15:28:24","timestamp":"2023-10-09T20:28:24.127Z"}
+{"level":"info","message":"Petición para POST en / - 15:28:24","timestamp":"2023-10-09T20:28:24.733Z"}
+{"level":"info","message":"Petición para GET en / - 15:28:24","timestamp":"2023-10-09T20:28:24.841Z"}
+{"level":"info","message":"Petición para POST en / - 15:28:24","timestamp":"2023-10-09T20:28:24.951Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:28:25","timestamp":"2023-10-09T20:28:25.058Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:28:25","timestamp":"2023-10-09T20:28:25.167Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:28:25","timestamp":"2023-10-09T20:28:25.278Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:28:25","timestamp":"2023-10-09T20:28:25.391Z"}
+{"level":"info","message":"Petición para GET en / - 15:29:54","timestamp":"2023-10-09T20:29:54.362Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:29:54","timestamp":"2023-10-09T20:29:54.559Z"}
+{"level":"info","message":"Petición para POST en / - 15:29:55","timestamp":"2023-10-09T20:29:55.152Z"}
+{"level":"info","message":"Petición para GET en / - 15:29:55","timestamp":"2023-10-09T20:29:55.267Z"}
+{"level":"info","message":"Petición para POST en / - 15:29:55","timestamp":"2023-10-09T20:29:55.371Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:29:55","timestamp":"2023-10-09T20:29:55.469Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:29:55","timestamp":"2023-10-09T20:29:55.573Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:29:55","timestamp":"2023-10-09T20:29:55.671Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:29:55","timestamp":"2023-10-09T20:29:55.772Z"}
+{"level":"info","message":"Petición para POST en / - 15:30:33","timestamp":"2023-10-09T20:30:33.044Z"}
+{"level":"info","message":"Petición para GET en / - 15:33:57","timestamp":"2023-10-09T20:33:57.931Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:33:58","timestamp":"2023-10-09T20:33:58.133Z"}
+{"level":"info","message":"Petición para POST en / - 15:33:58","timestamp":"2023-10-09T20:33:58.736Z"}
+{"level":"info","message":"Petición para GET en / - 15:33:58","timestamp":"2023-10-09T20:33:58.843Z"}
+{"level":"info","message":"Petición para POST en / - 15:33:58","timestamp":"2023-10-09T20:33:58.952Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:33:59","timestamp":"2023-10-09T20:33:59.058Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:33:59","timestamp":"2023-10-09T20:33:59.178Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:33:59","timestamp":"2023-10-09T20:33:59.279Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:33:59","timestamp":"2023-10-09T20:33:59.382Z"}
+{"level":"info","message":"Petición para POST en / - 15:48:56","timestamp":"2023-10-09T20:48:56.314Z"}
+{"level":"info","message":"Petición para GET en / - 15:52:10","timestamp":"2023-10-09T20:52:10.485Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:52:10","timestamp":"2023-10-09T20:52:10.686Z"}
+{"level":"info","message":"Petición para POST en / - 15:52:11","timestamp":"2023-10-09T20:52:11.305Z"}
+{"level":"info","message":"Petición para GET en / - 15:52:11","timestamp":"2023-10-09T20:52:11.425Z"}
+{"level":"info","message":"Petición para POST en / - 15:52:11","timestamp":"2023-10-09T20:52:11.548Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:52:11","timestamp":"2023-10-09T20:52:11.648Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:52:11","timestamp":"2023-10-09T20:52:11.758Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:52:11","timestamp":"2023-10-09T20:52:11.874Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:52:11","timestamp":"2023-10-09T20:52:11.996Z"}
+{"level":"info","message":"Petición para GET en / - 15:54:46","timestamp":"2023-10-09T20:54:46.306Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:54:46","timestamp":"2023-10-09T20:54:46.504Z"}
+{"level":"info","message":"Petición para POST en / - 15:54:47","timestamp":"2023-10-09T20:54:47.140Z"}
+{"level":"info","message":"Petición para GET en / - 15:54:47","timestamp":"2023-10-09T20:54:47.244Z"}
+{"level":"info","message":"Petición para POST en / - 15:54:47","timestamp":"2023-10-09T20:54:47.366Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:54:47","timestamp":"2023-10-09T20:54:47.465Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:54:47","timestamp":"2023-10-09T20:54:47.570Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:54:47","timestamp":"2023-10-09T20:54:47.668Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:54:47","timestamp":"2023-10-09T20:54:47.771Z"}
+{"level":"info","message":"Petición para GET en / - 15:57:40","timestamp":"2023-10-09T20:57:40.449Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:57:40","timestamp":"2023-10-09T20:57:40.646Z"}
+{"level":"info","message":"Petición para POST en / - 15:57:41","timestamp":"2023-10-09T20:57:41.239Z"}
+{"level":"info","message":"Petición para GET en / - 15:57:41","timestamp":"2023-10-09T20:57:41.339Z"}
+{"level":"info","message":"Petición para POST en / - 15:57:41","timestamp":"2023-10-09T20:57:41.442Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:57:41","timestamp":"2023-10-09T20:57:41.540Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:57:41","timestamp":"2023-10-09T20:57:41.642Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:57:41","timestamp":"2023-10-09T20:57:41.740Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:57:41","timestamp":"2023-10-09T20:57:41.846Z"}
+{"level":"info","message":"Petición para GET en / - 15:59:16","timestamp":"2023-10-09T20:59:16.675Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 15:59:16","timestamp":"2023-10-09T20:59:16.876Z"}
+{"level":"info","message":"Petición para POST en / - 15:59:17","timestamp":"2023-10-09T20:59:17.501Z"}
+{"level":"info","message":"Petición para GET en / - 15:59:17","timestamp":"2023-10-09T20:59:17.645Z"}
+{"level":"info","message":"Petición para POST en / - 15:59:17","timestamp":"2023-10-09T20:59:17.816Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:59:17","timestamp":"2023-10-09T20:59:17.927Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 15:59:18","timestamp":"2023-10-09T20:59:18.062Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 15:59:18","timestamp":"2023-10-09T20:59:18.174Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 15:59:18","timestamp":"2023-10-09T20:59:18.275Z"}
+{"level":"info","message":"Petición para GET en / - 16:02:58","timestamp":"2023-10-09T21:02:58.471Z"}
+{"level":"info","message":"Petición para GET en /652412cb76956a449323b123 - 16:02:58","timestamp":"2023-10-09T21:02:58.663Z"}
+{"level":"info","message":"Petición para POST en / - 16:02:59","timestamp":"2023-10-09T21:02:59.250Z"}
+{"level":"info","message":"Petición para GET en / - 16:02:59","timestamp":"2023-10-09T21:02:59.367Z"}
+{"level":"info","message":"Petición para POST en / - 16:02:59","timestamp":"2023-10-09T21:02:59.483Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 16:02:59","timestamp":"2023-10-09T21:02:59.581Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 16:02:59","timestamp":"2023-10-09T21:02:59.684Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 16:02:59","timestamp":"2023-10-09T21:02:59.782Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 16:02:59","timestamp":"2023-10-09T21:02:59.887Z"}
+{"level":"info","message":"Petición para GET en / - 16:03:11","timestamp":"2023-10-09T21:03:11.815Z"}
+{"level":"info","message":"Petición para GET en / - 16:03:46","timestamp":"2023-10-09T21:03:46.711Z"}
+{"level":"info","message":"Petición para POST en / - 16:03:47","timestamp":"2023-10-09T21:03:47.409Z"}
+{"level":"info","message":"Petición para GET en / - 16:03:47","timestamp":"2023-10-09T21:03:47.513Z"}
+{"level":"info","message":"Petición para POST en / - 16:03:47","timestamp":"2023-10-09T21:03:47.628Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 16:03:47","timestamp":"2023-10-09T21:03:47.729Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 16:03:47","timestamp":"2023-10-09T21:03:47.837Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 16:03:47","timestamp":"2023-10-09T21:03:47.950Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 16:03:48","timestamp":"2023-10-09T21:03:48.050Z"}
+{"level":"info","message":"Petición para GET en / - 18:38:03","timestamp":"2023-10-09T23:38:03.937Z"}
+{"level":"info","message":"Petición para POST en / - 18:38:04","timestamp":"2023-10-09T23:38:04.493Z"}
+{"level":"info","message":"Petición para GET en / - 18:38:04","timestamp":"2023-10-09T23:38:04.597Z"}
+{"level":"info","message":"Petición para POST en / - 18:38:04","timestamp":"2023-10-09T23:38:04.686Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 18:38:04","timestamp":"2023-10-09T23:38:04.765Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 18:38:04","timestamp":"2023-10-09T23:38:04.867Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 18:38:04","timestamp":"2023-10-09T23:38:04.942Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 18:38:05","timestamp":"2023-10-09T23:38:05.021Z"}
+{"level":"info","message":"Petición para GET en / - 18:38:52","timestamp":"2023-10-09T23:38:52.441Z"}
+{"level":"info","message":"Petición para GET en / - 18:39:08","timestamp":"2023-10-09T23:39:08.804Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 18:39:08","timestamp":"2023-10-09T23:39:08.950Z"}
+{"level":"info","message":"Petición para POST en / - 18:39:09","timestamp":"2023-10-09T23:39:09.422Z"}
+{"level":"info","message":"Petición para GET en / - 18:39:09","timestamp":"2023-10-09T23:39:09.505Z"}
+{"level":"info","message":"Petición para POST en / - 18:39:09","timestamp":"2023-10-09T23:39:09.594Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 18:39:09","timestamp":"2023-10-09T23:39:09.683Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 18:39:09","timestamp":"2023-10-09T23:39:09.768Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 18:39:09","timestamp":"2023-10-09T23:39:09.846Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 18:39:09","timestamp":"2023-10-09T23:39:09.930Z"}
+{"level":"info","message":"Petición para GET en / - 18:40:16","timestamp":"2023-10-09T23:40:16.725Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 18:40:16","timestamp":"2023-10-09T23:40:16.881Z"}
+{"level":"info","message":"Petición para POST en / - 18:40:17","timestamp":"2023-10-09T23:40:17.358Z"}
+{"level":"info","message":"Petición para GET en / - 18:40:17","timestamp":"2023-10-09T23:40:17.438Z"}
+{"level":"info","message":"Petición para POST en / - 18:40:17","timestamp":"2023-10-09T23:40:17.526Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 18:40:17","timestamp":"2023-10-09T23:40:17.604Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 18:40:17","timestamp":"2023-10-09T23:40:17.694Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 18:40:17","timestamp":"2023-10-09T23:40:17.789Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 18:40:17","timestamp":"2023-10-09T23:40:17.887Z"}
+{"level":"info","message":"Petición para GET en / - 19:04:10","timestamp":"2023-10-10T00:04:10.664Z"}
+{"level":"info","message":"Petición para GET en / - 19:05:23","timestamp":"2023-10-10T00:05:23.092Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 19:05:23","timestamp":"2023-10-10T00:05:23.242Z"}
+{"level":"info","message":"Petición para POST en / - 19:05:23","timestamp":"2023-10-10T00:05:23.709Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 19:05:23","timestamp":"2023-10-10T00:05:23.882Z"}
+{"level":"info","message":"Petición para GET en / - 19:05:23","timestamp":"2023-10-10T00:05:23.982Z"}
+{"level":"info","message":"Petición para POST en / - 19:05:24","timestamp":"2023-10-10T00:05:24.065Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:05:24","timestamp":"2023-10-10T00:05:24.142Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 19:05:24","timestamp":"2023-10-10T00:05:24.224Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:05:24","timestamp":"2023-10-10T00:05:24.300Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 19:05:24","timestamp":"2023-10-10T00:05:24.378Z"}
+{"level":"info","message":"Petición para GET en / - 19:05:30","timestamp":"2023-10-10T00:05:30.206Z"}
+{"level":"info","message":"Petición para GET en / - 19:07:17","timestamp":"2023-10-10T00:07:17.967Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 19:07:18","timestamp":"2023-10-10T00:07:18.114Z"}
+{"level":"info","message":"Petición para POST en / - 19:07:18","timestamp":"2023-10-10T00:07:18.560Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 19:07:18","timestamp":"2023-10-10T00:07:18.712Z"}
+{"level":"info","message":"Petición para GET en / - 19:07:18","timestamp":"2023-10-10T00:07:18.789Z"}
+{"level":"info","message":"Petición para POST en / - 19:07:18","timestamp":"2023-10-10T00:07:18.873Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:07:18","timestamp":"2023-10-10T00:07:18.968Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 19:07:19","timestamp":"2023-10-10T00:07:19.055Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:07:19","timestamp":"2023-10-10T00:07:19.145Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 19:07:19","timestamp":"2023-10-10T00:07:19.241Z"}
+{"level":"info","message":"Petición para GET en / - 19:07:23","timestamp":"2023-10-10T00:07:23.334Z"}
+{"level":"info","message":"Petición para GET en / - 19:15:53","timestamp":"2023-10-10T00:15:53.207Z"}
+{"level":"info","message":"Petición para GET en / - 19:17:08","timestamp":"2023-10-10T00:17:08.429Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 19:17:08","timestamp":"2023-10-10T00:17:08.575Z"}
+{"level":"info","message":"Petición para POST en / - 19:17:09","timestamp":"2023-10-10T00:17:09.021Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 19:17:09","timestamp":"2023-10-10T00:17:09.174Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 19:17:09","timestamp":"2023-10-10T00:17:09.273Z"}
+{"level":"info","message":"Petición para GET en / - 19:17:09","timestamp":"2023-10-10T00:17:09.366Z"}
+{"level":"info","message":"Petición para POST en / - 19:17:09","timestamp":"2023-10-10T00:17:09.448Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:17:09","timestamp":"2023-10-10T00:17:09.525Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 19:17:09","timestamp":"2023-10-10T00:17:09.629Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:17:09","timestamp":"2023-10-10T00:17:09.702Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 19:17:09","timestamp":"2023-10-10T00:17:09.778Z"}
+{"level":"info","message":"Petición para GET en / - 19:26:38","timestamp":"2023-10-10T00:26:38.452Z"}
+{"level":"info","message":"Petición para GET en / - 19:27:10","timestamp":"2023-10-10T00:27:10.928Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 19:27:11","timestamp":"2023-10-10T00:27:11.079Z"}
+{"level":"info","message":"Petición para POST en / - 19:27:11","timestamp":"2023-10-10T00:27:11.565Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 19:27:11","timestamp":"2023-10-10T00:27:11.748Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 19:27:11","timestamp":"2023-10-10T00:27:11.826Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 19:27:11","timestamp":"2023-10-10T00:27:11.981Z"}
+{"level":"info","message":"Petición para GET en / - 19:27:12","timestamp":"2023-10-10T00:27:12.080Z"}
+{"level":"info","message":"Petición para POST en / - 19:27:12","timestamp":"2023-10-10T00:27:12.178Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:27:12","timestamp":"2023-10-10T00:27:12.270Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 19:27:12","timestamp":"2023-10-10T00:27:12.355Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:27:12","timestamp":"2023-10-10T00:27:12.430Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 19:27:12","timestamp":"2023-10-10T00:27:12.508Z"}
+{"level":"info","message":"Petición para GET en / - 19:27:18","timestamp":"2023-10-10T00:27:18.327Z"}
+{"level":"info","message":"Petición para GET en / - 19:29:58","timestamp":"2023-10-10T00:29:58.086Z"}
+{"level":"info","message":"Petición para GET en / - 19:30:56","timestamp":"2023-10-10T00:30:56.262Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 19:30:56","timestamp":"2023-10-10T00:30:56.344Z"}
+{"level":"info","message":"Petición para POST en / - 19:30:56","timestamp":"2023-10-10T00:30:56.745Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 19:30:56","timestamp":"2023-10-10T00:30:56.904Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 19:30:56","timestamp":"2023-10-10T00:30:56.988Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 19:30:57","timestamp":"2023-10-10T00:30:57.143Z"}
+{"level":"error","message":"Error en la petición para POST en /652412cb76956a449323b123/purchase - ref is not defined - 19:30:57","timestamp":"2023-10-10T00:30:57.520Z"}
+{"level":"info","message":"Petición para GET en / - 19:30:57","timestamp":"2023-10-10T00:30:57.626Z"}
+{"level":"info","message":"Petición para POST en / - 19:30:57","timestamp":"2023-10-10T00:30:57.707Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:30:57","timestamp":"2023-10-10T00:30:57.783Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 19:30:57","timestamp":"2023-10-10T00:30:57.863Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:30:57","timestamp":"2023-10-10T00:30:57.939Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 19:30:58","timestamp":"2023-10-10T00:30:58.029Z"}
+{"level":"info","message":"Petición para GET en / - 19:32:27","timestamp":"2023-10-10T00:32:27.980Z"}
+{"level":"info","message":"Petición para GET en / - 19:37:06","timestamp":"2023-10-10T00:37:06.604Z"}
+{"level":"error","message":"Error en la petición para POST en /652412cb76956a449323b123/purchase - ref is not defined - 19:37:20","timestamp":"2023-10-10T00:37:20.202Z"}
+{"level":"info","message":"Petición para GET en / - 19:37:58","timestamp":"2023-10-10T00:37:58.020Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 19:37:58","timestamp":"2023-10-10T00:37:58.105Z"}
+{"level":"info","message":"Petición para POST en / - 19:37:58","timestamp":"2023-10-10T00:37:58.494Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 19:37:58","timestamp":"2023-10-10T00:37:58.662Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 19:37:58","timestamp":"2023-10-10T00:37:58.755Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 19:37:58","timestamp":"2023-10-10T00:37:58.912Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 19:37:59","timestamp":"2023-10-10T00:37:59.284Z"}
+{"level":"info","message":"Petición para GET en / - 19:37:59","timestamp":"2023-10-10T00:37:59.367Z"}
+{"level":"info","message":"Petición para POST en / - 19:37:59","timestamp":"2023-10-10T00:37:59.451Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:37:59","timestamp":"2023-10-10T00:37:59.526Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 19:37:59","timestamp":"2023-10-10T00:37:59.611Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:37:59","timestamp":"2023-10-10T00:37:59.702Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 19:37:59","timestamp":"2023-10-10T00:37:59.786Z"}
+{"level":"info","message":"Petición para GET en / - 19:38:04","timestamp":"2023-10-10T00:38:04.831Z"}
+{"level":"info","message":"Petición para GET en / - 19:38:17","timestamp":"2023-10-10T00:38:17.567Z"}
+{"level":"info","message":"Petición para GET en / - 19:39:08","timestamp":"2023-10-10T00:39:08.878Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 19:39:08","timestamp":"2023-10-10T00:39:08.955Z"}
+{"level":"info","message":"Petición para POST en / - 19:39:09","timestamp":"2023-10-10T00:39:09.325Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 19:39:09","timestamp":"2023-10-10T00:39:09.481Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 19:39:09","timestamp":"2023-10-10T00:39:09.563Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 19:39:09","timestamp":"2023-10-10T00:39:09.729Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 19:39:10","timestamp":"2023-10-10T00:39:10.108Z"}
+{"level":"info","message":"Petición para GET en / - 19:39:10","timestamp":"2023-10-10T00:39:10.200Z"}
+{"level":"info","message":"Petición para POST en / - 19:39:10","timestamp":"2023-10-10T00:39:10.280Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:39:10","timestamp":"2023-10-10T00:39:10.356Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 19:39:10","timestamp":"2023-10-10T00:39:10.451Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:39:10","timestamp":"2023-10-10T00:39:10.539Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 19:39:10","timestamp":"2023-10-10T00:39:10.616Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 19:39:31","timestamp":"2023-10-10T00:39:31.999Z"}
+{"level":"info","message":"Petición para GET en / - 19:39:35","timestamp":"2023-10-10T00:39:35.565Z"}
+{"level":"info","message":"Petición para GET en / - 19:41:08","timestamp":"2023-10-10T00:41:08.611Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 19:41:08","timestamp":"2023-10-10T00:41:08.695Z"}
+{"level":"info","message":"Petición para POST en / - 19:41:09","timestamp":"2023-10-10T00:41:09.080Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 19:41:09","timestamp":"2023-10-10T00:41:09.264Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 19:41:09","timestamp":"2023-10-10T00:41:09.358Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 19:41:09","timestamp":"2023-10-10T00:41:09.435Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 19:41:09","timestamp":"2023-10-10T00:41:09.586Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 19:41:09","timestamp":"2023-10-10T00:41:09.949Z"}
+{"level":"info","message":"Petición para GET en / - 19:41:10","timestamp":"2023-10-10T00:41:10.029Z"}
+{"level":"info","message":"Petición para POST en / - 19:41:10","timestamp":"2023-10-10T00:41:10.111Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:41:10","timestamp":"2023-10-10T00:41:10.186Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 19:41:10","timestamp":"2023-10-10T00:41:10.268Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 19:41:10","timestamp":"2023-10-10T00:41:10.343Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 19:41:10","timestamp":"2023-10-10T00:41:10.422Z"}
+{"level":"info","message":"Petición para GET en / - 21:09:51","timestamp":"2023-10-10T02:09:51.592Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 21:09:51","timestamp":"2023-10-10T02:09:51.670Z"}
+{"level":"info","message":"Petición para POST en / - 21:09:52","timestamp":"2023-10-10T02:09:52.051Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 21:09:52","timestamp":"2023-10-10T02:09:52.213Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 21:09:52","timestamp":"2023-10-10T02:09:52.297Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 21:09:52","timestamp":"2023-10-10T02:09:52.387Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 21:09:52","timestamp":"2023-10-10T02:09:52.545Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 21:09:52","timestamp":"2023-10-10T02:09:52.919Z"}
+{"level":"info","message":"Petición para GET en / - 21:09:53","timestamp":"2023-10-10T02:09:53.000Z"}
+{"level":"info","message":"Petición para POST en / - 21:09:53","timestamp":"2023-10-10T02:09:53.085Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 21:09:53","timestamp":"2023-10-10T02:09:53.165Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 21:09:53","timestamp":"2023-10-10T02:09:53.250Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 21:09:53","timestamp":"2023-10-10T02:09:53.326Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 21:09:53","timestamp":"2023-10-10T02:09:53.405Z"}
+{"level":"info","message":"Petición para GET en / - 11:05:49","timestamp":"2023-10-10T16:05:49.949Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 11:05:50","timestamp":"2023-10-10T16:05:50.053Z"}
+{"level":"info","message":"Petición para POST en / - 11:05:50","timestamp":"2023-10-10T16:05:50.567Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 11:05:50","timestamp":"2023-10-10T16:05:50.775Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 11:05:50","timestamp":"2023-10-10T16:05:50.874Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 11:05:50","timestamp":"2023-10-10T16:05:50.980Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 11:05:51","timestamp":"2023-10-10T16:05:51.198Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 11:05:51","timestamp":"2023-10-10T16:05:51.681Z"}
+{"level":"info","message":"Petición para GET en / - 11:05:51","timestamp":"2023-10-10T16:05:51.781Z"}
+{"level":"info","message":"Petición para POST en / - 11:05:51","timestamp":"2023-10-10T16:05:51.895Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 11:05:52","timestamp":"2023-10-10T16:05:52.005Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 11:05:52","timestamp":"2023-10-10T16:05:52.117Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 11:05:52","timestamp":"2023-10-10T16:05:52.214Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 11:05:52","timestamp":"2023-10-10T16:05:52.317Z"}
+{"level":"info","message":"Petición para GET en / - 11:16:56","timestamp":"2023-10-10T16:16:56.286Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 11:19:44","timestamp":"2023-10-10T16:19:44.806Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 11:19:51","timestamp":"2023-10-10T16:19:51.618Z"}
+{"level":"info","message":"Petición para GET en / - 11:19:59","timestamp":"2023-10-10T16:19:59.393Z"}
+{"level":"info","message":"Petición para POST en / - 11:20:37","timestamp":"2023-10-10T16:20:37.787Z"}
+{"level":"info","message":"Petición para GET en / - 11:20:55","timestamp":"2023-10-10T16:20:55.374Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 11:21:04","timestamp":"2023-10-10T16:21:04.530Z"}
+{"level":"info","message":"Petición para GET en / - 11:21:23","timestamp":"2023-10-10T16:21:23.029Z"}
+{"level":"info","message":"Petición para POST en / - 11:22:10","timestamp":"2023-10-10T16:22:10.406Z"}
+{"level":"info","message":"Petición para GET en / - 11:22:32","timestamp":"2023-10-10T16:22:32.202Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 11:22:32","timestamp":"2023-10-10T16:22:32.302Z"}
+{"level":"info","message":"Petición para POST en / - 11:22:32","timestamp":"2023-10-10T16:22:32.787Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 11:22:32","timestamp":"2023-10-10T16:22:32.987Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 11:22:33","timestamp":"2023-10-10T16:22:33.093Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 11:22:33","timestamp":"2023-10-10T16:22:33.195Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 11:22:33","timestamp":"2023-10-10T16:22:33.391Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 11:22:34","timestamp":"2023-10-10T16:22:34.063Z"}
+{"level":"info","message":"Petición para GET en / - 11:22:34","timestamp":"2023-10-10T16:22:34.163Z"}
+{"level":"info","message":"Petición para POST en / - 11:22:34","timestamp":"2023-10-10T16:22:34.268Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 11:22:34","timestamp":"2023-10-10T16:22:34.366Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 11:22:34","timestamp":"2023-10-10T16:22:34.469Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 11:22:34","timestamp":"2023-10-10T16:22:34.581Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 11:22:34","timestamp":"2023-10-10T16:22:34.683Z"}
+{"level":"info","message":"Petición para GET en / - 11:23:27","timestamp":"2023-10-10T16:23:27.665Z"}
+{"level":"info","message":"Petición para GET en / - 09:44:20","timestamp":"2023-10-11T14:44:20.588Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:44:20","timestamp":"2023-10-11T14:44:20.696Z"}
+{"level":"info","message":"Petición para POST en / - 09:44:21","timestamp":"2023-10-11T14:44:21.152Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 09:44:21","timestamp":"2023-10-11T14:44:21.337Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:44:21","timestamp":"2023-10-11T14:44:21.433Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:44:21","timestamp":"2023-10-11T14:44:21.530Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:44:21","timestamp":"2023-10-11T14:44:21.718Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:44:21","timestamp":"2023-10-11T14:44:21.904Z"}
+{"level":"info","message":"Petición para GET en / - 09:44:22","timestamp":"2023-10-11T14:44:22.001Z"}
+{"level":"info","message":"Petición para POST en / - 09:44:22","timestamp":"2023-10-11T14:44:22.107Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:44:22","timestamp":"2023-10-11T14:44:22.200Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:44:22","timestamp":"2023-10-11T14:44:22.299Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:44:22","timestamp":"2023-10-11T14:44:22.391Z"}
+{"level":"info","message":"Petición para PUT en /6522ef245c7edb3ca4011682 - 09:44:22","timestamp":"2023-10-11T14:44:22.489Z"}
+{"level":"info","message":"Petición para GET en / - 09:46:35","timestamp":"2023-10-11T14:46:35.660Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:46:35","timestamp":"2023-10-11T14:46:35.759Z"}
+{"level":"info","message":"Petición para POST en / - 09:46:36","timestamp":"2023-10-11T14:46:36.214Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 09:46:36","timestamp":"2023-10-11T14:46:36.399Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:46:36","timestamp":"2023-10-11T14:46:36.493Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:46:36","timestamp":"2023-10-11T14:46:36.589Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:46:36","timestamp":"2023-10-11T14:46:36.771Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:46:36","timestamp":"2023-10-11T14:46:36.959Z"}
+{"level":"info","message":"Petición para GET en / - 09:46:37","timestamp":"2023-10-11T14:46:37.055Z"}
+{"level":"info","message":"Petición para POST en / - 09:46:37","timestamp":"2023-10-11T14:46:37.151Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:46:37","timestamp":"2023-10-11T14:46:37.245Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:46:37","timestamp":"2023-10-11T14:46:37.343Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:46:37","timestamp":"2023-10-11T14:46:37.434Z"}
+{"level":"info","message":"Petición para GET en / - 09:49:30","timestamp":"2023-10-11T14:49:30.095Z"}
+{"level":"info","message":"Petición para GET en / - 09:50:25","timestamp":"2023-10-11T14:50:25.203Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:50:25","timestamp":"2023-10-11T14:50:25.297Z"}
+{"level":"info","message":"Petición para POST en / - 09:50:25","timestamp":"2023-10-11T14:50:25.750Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 09:50:25","timestamp":"2023-10-11T14:50:25.934Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:50:26","timestamp":"2023-10-11T14:50:26.034Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:50:26","timestamp":"2023-10-11T14:50:26.131Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:50:26","timestamp":"2023-10-11T14:50:26.327Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:50:26","timestamp":"2023-10-11T14:50:26.526Z"}
+{"level":"info","message":"Petición para GET en / - 09:50:26","timestamp":"2023-10-11T14:50:26.620Z"}
+{"level":"info","message":"Petición para POST en / - 09:50:26","timestamp":"2023-10-11T14:50:26.719Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:50:26","timestamp":"2023-10-11T14:50:26.814Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:50:26","timestamp":"2023-10-11T14:50:26.913Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:50:27","timestamp":"2023-10-11T14:50:27.004Z"}
+{"level":"info","message":"Petición para GET en / - 09:50:30","timestamp":"2023-10-11T14:50:30.442Z"}
+{"level":"info","message":"Petición para GET en / - 09:50:33","timestamp":"2023-10-11T14:50:33.035Z"}
+{"level":"info","message":"Petición para GET en / - 09:51:41","timestamp":"2023-10-11T14:51:41.029Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:51:41","timestamp":"2023-10-11T14:51:41.126Z"}
+{"level":"info","message":"Petición para POST en / - 09:51:41","timestamp":"2023-10-11T14:51:41.599Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:51:43","timestamp":"2023-10-11T14:51:43.709Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:51:43","timestamp":"2023-10-11T14:51:43.896Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:51:44","timestamp":"2023-10-11T14:51:44.074Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:51:44","timestamp":"2023-10-11T14:51:44.266Z"}
+{"level":"info","message":"Petición para GET en / - 09:51:44","timestamp":"2023-10-11T14:51:44.371Z"}
+{"level":"info","message":"Petición para POST en / - 09:51:44","timestamp":"2023-10-11T14:51:44.471Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:51:44","timestamp":"2023-10-11T14:51:44.562Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:51:44","timestamp":"2023-10-11T14:51:44.662Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:51:44","timestamp":"2023-10-11T14:51:44.754Z"}
+{"level":"info","message":"Petición para GET en / - 09:53:27","timestamp":"2023-10-11T14:53:27.349Z"}
+{"level":"info","message":"Petición para GET en / - 09:53:39","timestamp":"2023-10-11T14:53:39.028Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:53:39","timestamp":"2023-10-11T14:53:39.126Z"}
+{"level":"info","message":"Petición para POST en / - 09:53:39","timestamp":"2023-10-11T14:53:39.579Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba - 09:53:39","timestamp":"2023-10-11T14:53:39.771Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:53:39","timestamp":"2023-10-11T14:53:39.870Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:53:39","timestamp":"2023-10-11T14:53:39.969Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:53:40","timestamp":"2023-10-11T14:53:40.153Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:53:40","timestamp":"2023-10-11T14:53:40.372Z"}
+{"level":"info","message":"Petición para GET en / - 09:53:40","timestamp":"2023-10-11T14:53:40.472Z"}
+{"level":"info","message":"Petición para POST en / - 09:53:40","timestamp":"2023-10-11T14:53:40.569Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:53:40","timestamp":"2023-10-11T14:53:40.661Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:53:40","timestamp":"2023-10-11T14:53:40.761Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:53:40","timestamp":"2023-10-11T14:53:40.852Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 10:40:12","timestamp":"2023-10-11T15:40:12.071Z"}
+{"level":"info","message":"Petición para GET en / - 10:40:16","timestamp":"2023-10-11T15:40:16.552Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123 - 10:52:00","timestamp":"2023-10-11T15:52:00.120Z"}
+{"level":"info","message":"Petición para POST en / - 10:52:33","timestamp":"2023-10-11T15:52:33.910Z"}
+{"level":"info","message":"Petición para GET en / - 10:52:37","timestamp":"2023-10-11T15:52:37.895Z"}
+{"level":"info","message":"Petición para GET en / - 11:03:30","timestamp":"2023-10-11T16:03:30.466Z"}
+{"level":"info","message":"Petición para GET en / - 11:46:18","timestamp":"2023-10-11T16:46:18.223Z"}
+{"level":"info","message":"Petición para GET en / - 14:58:51","timestamp":"2023-10-11T19:58:51.675Z"}
+{"level":"error","message":"Error en la petición para PUT en /652412cb76956a449323b123 - i is not defined - 15:45:32","timestamp":"2023-10-11T20:45:32.557Z"}
+{"level":"info","message":"Petición para GET en / - 19:53:39","timestamp":"2023-10-12T00:53:39.081Z"}
+{"level":"info","message":"Petición para GET en / - 08:07:51","timestamp":"2023-10-12T13:07:51.584Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123 - 08:08:02","timestamp":"2023-10-12T13:08:02.370Z"}
+{"level":"info","message":"Petición para GET en / - 08:08:06","timestamp":"2023-10-12T13:08:06.647Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 08:11:42","timestamp":"2023-10-12T13:11:42.373Z"}
+{"level":"info","message":"Petición para GET en / - 08:22:21","timestamp":"2023-10-12T13:22:21.361Z"}
+{"level":"info","message":"Petición para GET en / - 08:37:41","timestamp":"2023-10-12T13:37:41.497Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 08:37:41","timestamp":"2023-10-12T13:37:41.598Z"}
+{"level":"info","message":"Petición para POST en / - 08:37:42","timestamp":"2023-10-12T13:37:42.092Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 08:37:42","timestamp":"2023-10-12T13:37:42.294Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 08:37:42","timestamp":"2023-10-12T13:37:42.398Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 08:37:42","timestamp":"2023-10-12T13:37:42.626Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 08:37:42","timestamp":"2023-10-12T13:37:42.819Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 08:37:43","timestamp":"2023-10-12T13:37:43.896Z"}
+{"level":"info","message":"Petición para GET en / - 08:37:43","timestamp":"2023-10-12T13:37:44.000Z"}
+{"level":"info","message":"Petición para POST en / - 08:37:44","timestamp":"2023-10-12T13:37:44.128Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 08:37:44","timestamp":"2023-10-12T13:37:44.233Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 08:37:44","timestamp":"2023-10-12T13:37:44.364Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 08:37:44","timestamp":"2023-10-12T13:37:44.476Z"}
+{"level":"info","message":"Petición para GET en / - 08:37:57","timestamp":"2023-10-12T13:37:57.151Z"}
+{"level":"info","message":"Petición para GET en / - 08:38:02","timestamp":"2023-10-12T13:38:02.088Z"}
+{"level":"info","message":"Petición para GET en / - 08:38:20","timestamp":"2023-10-12T13:38:20.686Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 08:38:24","timestamp":"2023-10-12T13:38:24.955Z"}
+{"level":"info","message":"Petición para GET en / - 08:38:28","timestamp":"2023-10-12T13:38:28.280Z"}
+{"level":"info","message":"Petición para GET en / - 08:54:14","timestamp":"2023-10-12T13:54:14.157Z"}
+{"level":"info","message":"Petición para GET en / - 08:56:30","timestamp":"2023-10-12T13:56:30.057Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 08:56:30","timestamp":"2023-10-12T13:56:30.169Z"}
+{"level":"info","message":"Petición para POST en / - 08:56:30","timestamp":"2023-10-12T13:56:30.676Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 08:56:30","timestamp":"2023-10-12T13:56:30.879Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 08:56:30","timestamp":"2023-10-12T13:56:30.992Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 08:56:31","timestamp":"2023-10-12T13:56:31.229Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 08:56:31","timestamp":"2023-10-12T13:56:31.437Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 08:56:32","timestamp":"2023-10-12T13:56:32.521Z"}
+{"level":"info","message":"Petición para GET en / - 08:56:32","timestamp":"2023-10-12T13:56:32.627Z"}
+{"level":"info","message":"Petición para POST en / - 08:56:32","timestamp":"2023-10-12T13:56:32.784Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 08:56:32","timestamp":"2023-10-12T13:56:32.882Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 08:56:32","timestamp":"2023-10-12T13:56:32.983Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 08:56:33","timestamp":"2023-10-12T13:56:33.081Z"}
+{"level":"info","message":"Petición para GET en / - 08:56:37","timestamp":"2023-10-12T13:56:37.031Z"}
+{"level":"info","message":"Petición para GET en / - 09:01:04","timestamp":"2023-10-12T14:01:04.645Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:01:04","timestamp":"2023-10-12T14:01:04.745Z"}
+{"level":"info","message":"Petición para POST en / - 09:01:05","timestamp":"2023-10-12T14:01:05.232Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:01:07","timestamp":"2023-10-12T14:01:07.336Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:01:07","timestamp":"2023-10-12T14:01:07.536Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:01:07","timestamp":"2023-10-12T14:01:07.728Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:01:07","timestamp":"2023-10-12T14:01:07.927Z"}
+{"level":"info","message":"Petición para GET en / - 09:01:08","timestamp":"2023-10-12T14:01:08.029Z"}
+{"level":"info","message":"Petición para POST en / - 09:01:08","timestamp":"2023-10-12T14:01:08.133Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:01:08","timestamp":"2023-10-12T14:01:08.232Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:01:08","timestamp":"2023-10-12T14:01:08.345Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:01:08","timestamp":"2023-10-12T14:01:08.459Z"}
+{"level":"info","message":"Petición para GET en / - 09:04:06","timestamp":"2023-10-12T14:04:06.286Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:04:06","timestamp":"2023-10-12T14:04:06.390Z"}
+{"level":"info","message":"Petición para POST en / - 09:04:06","timestamp":"2023-10-12T14:04:06.899Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:04:09","timestamp":"2023-10-12T14:04:09.002Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:04:09","timestamp":"2023-10-12T14:04:09.200Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:04:09","timestamp":"2023-10-12T14:04:09.394Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:04:09","timestamp":"2023-10-12T14:04:09.609Z"}
+{"level":"info","message":"Petición para GET en / - 09:04:09","timestamp":"2023-10-12T14:04:09.709Z"}
+{"level":"info","message":"Petición para POST en / - 09:04:09","timestamp":"2023-10-12T14:04:09.817Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:04:09","timestamp":"2023-10-12T14:04:09.917Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:04:10","timestamp":"2023-10-12T14:04:10.035Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:04:10","timestamp":"2023-10-12T14:04:10.135Z"}
+{"level":"info","message":"Petición para GET en / - 09:04:15","timestamp":"2023-10-12T14:04:15.617Z"}
+{"level":"info","message":"Petición para GET en / - 09:04:17","timestamp":"2023-10-12T14:04:17.115Z"}
+{"level":"info","message":"Petición para GET en / - 09:04:18","timestamp":"2023-10-12T14:04:18.055Z"}
+{"level":"info","message":"Petición para GET en / - 09:05:56","timestamp":"2023-10-12T14:05:56.228Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:05:56","timestamp":"2023-10-12T14:05:56.333Z"}
+{"level":"info","message":"Petición para POST en / - 09:05:56","timestamp":"2023-10-12T14:05:56.872Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:05:58","timestamp":"2023-10-12T14:05:58.998Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:05:59","timestamp":"2023-10-12T14:05:59.199Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:05:59","timestamp":"2023-10-12T14:05:59.396Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:05:59","timestamp":"2023-10-12T14:05:59.611Z"}
+{"level":"info","message":"Petición para GET en / - 09:05:59","timestamp":"2023-10-12T14:05:59.722Z"}
+{"level":"info","message":"Petición para POST en / - 09:05:59","timestamp":"2023-10-12T14:05:59.836Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:05:59","timestamp":"2023-10-12T14:05:59.953Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:06:00","timestamp":"2023-10-12T14:06:00.060Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:06:00","timestamp":"2023-10-12T14:06:00.159Z"}
+{"level":"info","message":"Petición para GET en / - 09:07:29","timestamp":"2023-10-12T14:07:29.784Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:07:29","timestamp":"2023-10-12T14:07:29.897Z"}
+{"level":"info","message":"Petición para POST en / - 09:07:30","timestamp":"2023-10-12T14:07:30.376Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:07:32","timestamp":"2023-10-12T14:07:32.488Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:07:32","timestamp":"2023-10-12T14:07:32.689Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:07:32","timestamp":"2023-10-12T14:07:32.887Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:07:33","timestamp":"2023-10-12T14:07:33.085Z"}
+{"level":"info","message":"Petición para GET en / - 09:07:33","timestamp":"2023-10-12T14:07:33.186Z"}
+{"level":"info","message":"Petición para POST en / - 09:07:33","timestamp":"2023-10-12T14:07:33.291Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:07:33","timestamp":"2023-10-12T14:07:33.391Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:07:33","timestamp":"2023-10-12T14:07:33.494Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:07:33","timestamp":"2023-10-12T14:07:33.593Z"}
+{"level":"info","message":"Petición para GET en / - 09:07:53","timestamp":"2023-10-12T14:07:53.806Z"}
+{"level":"info","message":"Petición para GET en / - 09:08:31","timestamp":"2023-10-12T14:08:31.229Z"}
+{"level":"info","message":"Petición para DELETE en /652412cb76956a449323b123 - 09:08:37","timestamp":"2023-10-12T14:08:37.070Z"}
+{"level":"info","message":"Petición para GET en / - 09:09:14","timestamp":"2023-10-12T14:09:14.501Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:09:14","timestamp":"2023-10-12T14:09:14.602Z"}
+{"level":"info","message":"Petición para POST en / - 09:09:15","timestamp":"2023-10-12T14:09:15.088Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 09:09:15","timestamp":"2023-10-12T14:09:15.291Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:09:15","timestamp":"2023-10-12T14:09:15.400Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:09:15","timestamp":"2023-10-12T14:09:15.598Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:09:15","timestamp":"2023-10-12T14:09:15.792Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:09:16","timestamp":"2023-10-12T14:09:16.867Z"}
+{"level":"info","message":"Petición para GET en / - 09:09:16","timestamp":"2023-10-12T14:09:16.967Z"}
+{"level":"info","message":"Petición para POST en / - 09:09:17","timestamp":"2023-10-12T14:09:17.096Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:09:17","timestamp":"2023-10-12T14:09:17.200Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:09:17","timestamp":"2023-10-12T14:09:17.310Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:09:17","timestamp":"2023-10-12T14:09:17.411Z"}
+{"level":"info","message":"Petición para GET en / - 09:09:19","timestamp":"2023-10-12T14:09:19.113Z"}
+{"level":"info","message":"Petición para GET en / - 09:09:20","timestamp":"2023-10-12T14:09:20.277Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 09:09:23","timestamp":"2023-10-12T14:09:23.277Z"}
+{"level":"info","message":"Petición para GET en / - 09:09:26","timestamp":"2023-10-12T14:09:26.503Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 09:12:59","timestamp":"2023-10-12T14:12:59.109Z"}
+{"level":"info","message":"Petición para GET en / - 09:13:03","timestamp":"2023-10-12T14:13:03.355Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 09:13:15","timestamp":"2023-10-12T14:13:15.024Z"}
+{"level":"info","message":"Petición para GET en / - 09:13:17","timestamp":"2023-10-12T14:13:17.995Z"}
+{"level":"info","message":"Petición para GET en / - 09:16:11","timestamp":"2023-10-12T14:16:11.483Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:16:11","timestamp":"2023-10-12T14:16:11.582Z"}
+{"level":"info","message":"Petición para POST en / - 09:16:12","timestamp":"2023-10-12T14:16:12.066Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:16:12","timestamp":"2023-10-12T14:16:12.169Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:16:12","timestamp":"2023-10-12T14:16:12.367Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:16:12","timestamp":"2023-10-12T14:16:12.564Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:16:13","timestamp":"2023-10-12T14:16:13.361Z"}
+{"level":"info","message":"Petición para GET en / - 09:16:13","timestamp":"2023-10-12T14:16:13.461Z"}
+{"level":"info","message":"Petición para POST en / - 09:16:13","timestamp":"2023-10-12T14:16:13.568Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:16:13","timestamp":"2023-10-12T14:16:13.681Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:16:13","timestamp":"2023-10-12T14:16:13.783Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:16:13","timestamp":"2023-10-12T14:16:13.881Z"}
+{"level":"info","message":"Petición para GET en / - 09:16:46","timestamp":"2023-10-12T14:16:46.036Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:16:46","timestamp":"2023-10-12T14:16:46.136Z"}
+{"level":"info","message":"Petición para POST en / - 09:16:46","timestamp":"2023-10-12T14:16:46.646Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:16:46","timestamp":"2023-10-12T14:16:46.753Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:16:46","timestamp":"2023-10-12T14:16:46.967Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:16:47","timestamp":"2023-10-12T14:16:47.160Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:16:47","timestamp":"2023-10-12T14:16:47.556Z"}
+{"level":"info","message":"Petición para GET en / - 09:16:47","timestamp":"2023-10-12T14:16:47.679Z"}
+{"level":"info","message":"Petición para POST en / - 09:16:47","timestamp":"2023-10-12T14:16:47.804Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:16:47","timestamp":"2023-10-12T14:16:47.918Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:16:48","timestamp":"2023-10-12T14:16:48.027Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:16:48","timestamp":"2023-10-12T14:16:48.145Z"}
+{"level":"info","message":"Petición para GET en / - 09:19:03","timestamp":"2023-10-12T14:19:03.251Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:19:03","timestamp":"2023-10-12T14:19:03.356Z"}
+{"level":"info","message":"Petición para POST en / - 09:19:03","timestamp":"2023-10-12T14:19:03.847Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 09:19:04","timestamp":"2023-10-12T14:19:04.048Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:19:04","timestamp":"2023-10-12T14:19:04.154Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:19:04","timestamp":"2023-10-12T14:19:04.355Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:19:04","timestamp":"2023-10-12T14:19:04.552Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:19:05","timestamp":"2023-10-12T14:19:05.031Z"}
+{"level":"info","message":"Petición para GET en / - 09:19:05","timestamp":"2023-10-12T14:19:05.132Z"}
+{"level":"info","message":"Petición para POST en / - 09:19:05","timestamp":"2023-10-12T14:19:05.234Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:19:05","timestamp":"2023-10-12T14:19:05.332Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce32e2 - 09:19:05","timestamp":"2023-10-12T14:19:05.441Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce32e2 - Error al obtener el producto por ID - 09:19:05","timestamp":"2023-10-12T14:19:05.538Z"}
+{"level":"info","message":"Petición para GET en / - 09:19:20","timestamp":"2023-10-12T14:19:20.968Z"}
+{"level":"info","message":"Petición para GET en / - 09:19:30","timestamp":"2023-10-12T14:19:30.081Z"}
+{"level":"info","message":"Petición para GET en / - 09:23:37","timestamp":"2023-10-12T14:23:37.601Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 09:23:37","timestamp":"2023-10-12T14:23:37.706Z"}
+{"level":"info","message":"Petición para POST en / - 09:23:38","timestamp":"2023-10-12T14:23:38.216Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 09:23:38","timestamp":"2023-10-12T14:23:38.432Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 09:23:38","timestamp":"2023-10-12T14:23:38.534Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 09:23:38","timestamp":"2023-10-12T14:23:38.732Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 09:23:38","timestamp":"2023-10-12T14:23:38.941Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 09:23:39","timestamp":"2023-10-12T14:23:39.452Z"}
+{"level":"info","message":"Petición para GET en / - 09:23:39","timestamp":"2023-10-12T14:23:39.567Z"}
+{"level":"info","message":"Petición para POST en / - 09:23:39","timestamp":"2023-10-12T14:23:39.684Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce3330 - 09:23:39","timestamp":"2023-10-12T14:23:39.901Z"}
+{"level":"info","message":"Petición para DELETE en /6522e7c29440da5fa4ce3330 - 09:23:40","timestamp":"2023-10-12T14:23:40.098Z"}
+{"level":"info","message":"Petición para GET en / - 18:58:28","timestamp":"2023-10-17T23:58:28.162Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 18:58:28","timestamp":"2023-10-17T23:58:28.251Z"}
+{"level":"info","message":"Petición para POST en / - 18:58:28","timestamp":"2023-10-17T23:58:28.649Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 18:58:28","timestamp":"2023-10-17T23:58:28.815Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 18:58:28","timestamp":"2023-10-17T23:58:28.899Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 18:58:29","timestamp":"2023-10-17T23:58:29.073Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 18:58:29","timestamp":"2023-10-17T23:58:29.227Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 18:58:29","timestamp":"2023-10-17T23:58:29.637Z"}
+{"level":"info","message":"Petición para GET en / - 18:58:29","timestamp":"2023-10-17T23:58:29.724Z"}
+{"level":"info","message":"Petición para POST en / - 18:58:29","timestamp":"2023-10-17T23:58:29.826Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce3380 - 18:58:29","timestamp":"2023-10-17T23:58:29.991Z"}
+{"level":"info","message":"Petición para DELETE en /6522e7c29440da5fa4ce3380 - 18:58:30","timestamp":"2023-10-17T23:58:30.148Z"}
+{"level":"info","message":"Petición para GET en / - 18:58:37","timestamp":"2023-10-17T23:58:37.415Z"}
+{"level":"info","message":"Petición para GET en /65240fecbe28a707f53c95ba - 18:58:37","timestamp":"2023-10-17T23:58:37.494Z"}
+{"level":"info","message":"Petición para POST en / - 18:58:37","timestamp":"2023-10-17T23:58:37.879Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123 - 18:58:38","timestamp":"2023-10-17T23:58:38.048Z"}
+{"level":"info","message":"Petición para PUT en /652412cb76956a449323b123/products/6522e7c29440da5fa4ce32f0 - 18:58:38","timestamp":"2023-10-17T23:58:38.133Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba/products/6522e7c29440da5fa4ce32ee - 18:58:38","timestamp":"2023-10-17T23:58:38.293Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 18:58:38","timestamp":"2023-10-17T23:58:38.448Z"}
+{"level":"info","message":"Petición para POST en /652412cb76956a449323b123/purchase - 18:58:38","timestamp":"2023-10-17T23:58:38.830Z"}
+{"level":"info","message":"Petición para GET en / - 18:58:38","timestamp":"2023-10-17T23:58:38.911Z"}
+{"level":"info","message":"Petición para POST en / - 18:58:38","timestamp":"2023-10-17T23:58:38.996Z"}
+{"level":"error","message":"Error en la petición para GET en /6522e7c29440da5fa4ce3380 - Error al obtener el producto por ID - 18:58:39","timestamp":"2023-10-17T23:58:39.076Z"}
+{"level":"info","message":"Petición para PUT en /6522e7c29440da5fa4ce3380 - 18:58:39","timestamp":"2023-10-17T23:58:39.159Z"}
+{"level":"error","message":"Error en la petición para DELETE en /6522e7c29440da5fa4ce3380 - Error al obtener el producto por ID - 18:58:39","timestamp":"2023-10-17T23:58:39.238Z"}
+{"level":"info","message":"Petición para POST en /653464712fc2a062783983b1/documents - 19:03:53","timestamp":"2023-10-22T00:03:53.324Z"}
+{"level":"info","message":"Petición para POST en /653464712fc2a062783983b1/documents - 19:09:07","timestamp":"2023-10-22T00:09:07.989Z"}
+{"level":"info","message":"Petición para POST en /653464712fc2a062783983b1/documents - 19:18:47","timestamp":"2023-10-22T00:18:47.039Z"}
+{"level":"info","message":"Petición para POST en /653464712fc2a062783983b1/documents - 19:36:33","timestamp":"2023-10-22T00:36:33.227Z"}
+{"level":"info","message":"Petición para POST en /653464712fc2a062783983b1/documents - 19:37:20","timestamp":"2023-10-22T00:37:20.372Z"}
+{"level":"info","message":"Petición para POST en /653464712fc2a062783983b1/documents - 19:44:25","timestamp":"2023-10-22T00:44:25.938Z"}
+{"level":"info","message":"Petición para POST en /653464712fc2a062783983b1/documents - 19:48:49","timestamp":"2023-10-22T00:48:49.803Z"}
+{"level":"info","message":"Petición para GET en / - 20:05:15","timestamp":"2023-10-28T01:05:15.948Z"}
+{"level":"error","message":"Error en la petición para GET en / - Error: Error al obtener la lista de usuarios - 20:05:15","timestamp":"2023-10-28T01:05:15.952Z"}
+{"level":"info","message":"Petición para GET en / - 20:06:24","timestamp":"2023-10-28T01:06:24.345Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - Error al eliminar el usuario - 19:02:00","timestamp":"2023-11-01T00:02:00.063Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - Cannot read properties of undefined (reading 'message') - 19:07:51","timestamp":"2023-11-01T00:07:51.497Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - Error al eliminar el usuario - 19:09:11","timestamp":"2023-11-01T00:09:11.480Z"}
+{"level":"error","message":"Error en la petición para DELETE en /1 - Error al eliminar el usuario - 19:13:17","timestamp":"2023-11-01T00:13:17.093Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - Cannot read properties of undefined (reading 'message') - 19:18:42","timestamp":"2023-11-01T00:18:42.967Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - result is not defined - 19:23:49","timestamp":"2023-11-01T00:23:49.976Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - Cannot read properties of undefined (reading 'message') - 19:24:49","timestamp":"2023-11-01T00:24:49.429Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - Cannot read properties of undefined (reading 'message') - 19:26:38","timestamp":"2023-11-01T00:26:38.852Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - result is not defined - 19:27:41","timestamp":"2023-11-01T00:27:41.816Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 19:35:25","timestamp":"2023-11-01T00:35:25.256Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - result is not defined - 19:35:25","timestamp":"2023-11-01T00:35:25.259Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 19:36:21","timestamp":"2023-11-01T00:36:21.867Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - result is not defined - 19:36:21","timestamp":"2023-11-01T00:36:21.869Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - users is not defined - 20:03:19","timestamp":"2023-11-01T01:03:19.815Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 20:03:35","timestamp":"2023-11-01T01:03:35.463Z"}
+{"level":"error","message":"Error en la petición para DELETE en /clean - cleanUsers is not defined - 20:14:50","timestamp":"2023-11-01T01:14:50.759Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 20:24:12","timestamp":"2023-11-01T01:24:12.410Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 20:33:23","timestamp":"2023-11-01T01:33:23.939Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 20:35:54","timestamp":"2023-11-01T01:35:54.968Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 20:46:55","timestamp":"2023-11-01T01:46:55.732Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 21:21:00","timestamp":"2023-11-01T02:21:00.749Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 10:17:58","timestamp":"2023-11-01T15:17:58.260Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 10:19:33","timestamp":"2023-11-01T15:19:33.835Z"}
+{"level":"info","message":"Petición para POST en / - 10:52:08","timestamp":"2023-11-01T15:52:08.415Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 10:54:46","timestamp":"2023-11-01T15:54:46.636Z"}
+{"level":"info","message":"Petición para DELETE en /clean - 11:04:15","timestamp":"2023-11-01T16:04:15.745Z"}
+{"level":"info","message":"Petición para GET en / - 19:02:34","timestamp":"2023-11-02T00:02:34.286Z"}
+{"level":"info","message":"Petición para POST en /premium/654276a7def50c76a9c90fa2 - 20:00:57","timestamp":"2023-11-02T01:00:57.184Z"}
+{"level":"info","message":"Petición para POST en /premium/654276a7def50c76a9c90fa2 - 20:09:43","timestamp":"2023-11-02T01:09:43.392Z"}
+{"level":"info","message":"Petición para POST en /premium/654276a7def50c76a9c90fa2 - 20:18:48","timestamp":"2023-11-02T01:18:48.730Z"}
+{"level":"info","message":"Petición para GET en / - 09:59:34","timestamp":"2023-11-03T14:59:34.866Z"}
+{"level":"info","message":"Petición para GET en / - 17:52:21","timestamp":"2023-11-03T22:52:21.074Z"}
+{"level":"info","message":"Petición para GET en / - 18:39:34","timestamp":"2023-11-03T23:39:34.092Z"}
+{"level":"info","message":"Petición para GET en / - 18:40:14","timestamp":"2023-11-03T23:40:14.222Z"}
+{"level":"info","message":"Petición para GET en / - 18:41:23","timestamp":"2023-11-03T23:41:23.515Z"}
+{"level":"info","message":"Petición para GET en / - 19:37:11","timestamp":"2023-11-04T00:37:11.478Z"}
+{"level":"info","message":"Petición para GET en / - 20:38:19","timestamp":"2023-11-04T01:38:19.300Z"}
+{"level":"info","message":"Petición para GET en / - 20:41:01","timestamp":"2023-11-04T01:41:01.682Z"}
+{"level":"info","message":"Petición para GET en / - 20:53:22","timestamp":"2023-11-04T01:53:22.094Z"}
+{"level":"info","message":"Petición para GET en / - 21:09:22","timestamp":"2023-11-04T02:09:22.806Z"}
+{"level":"info","message":"Petición para POST en / - 21:20:56","timestamp":"2023-11-04T02:20:56.828Z"}
+{"level":"info","message":"Petición para POST en / - 21:20:56","timestamp":"2023-11-04T02:20:56.993Z"}
+{"level":"info","message":"Petición para GET en / - 21:21:02","timestamp":"2023-11-04T02:21:02.406Z"}
+{"level":"info","message":"Petición para POST en / - 21:21:10","timestamp":"2023-11-04T02:21:10.734Z"}
+{"level":"info","message":"Petición para GET en / - 08:46:39","timestamp":"2023-11-04T13:46:39.744Z"}
+{"level":"info","message":"Petición para GET en / - 08:47:39","timestamp":"2023-11-04T13:47:39.609Z"}
+{"level":"error","message":"Error en la petición para POST en / - cartRepository.getDefaultCartId is not a function - 08:48:25","timestamp":"2023-11-04T13:48:25.683Z"}
+{"level":"error","message":"Error en la petición para POST en / - cartRepository.getDefaultCartId is not a function - 08:49:59","timestamp":"2023-11-04T13:49:59.408Z"}
+{"level":"error","message":"Error en la petición para POST en / - Cannot read properties of undefined (reading 'getDefaultCartId') - 08:50:57","timestamp":"2023-11-04T13:50:57.026Z"}
+{"level":"info","message":"Petición para GET en / - 09:13:34","timestamp":"2023-11-04T14:13:34.053Z"}
+{"level":"info","message":"Petición para POST en / - 09:46:14","timestamp":"2023-11-04T14:46:14.458Z"}
+{"level":"info","message":"Petición para POST en / - 09:59:15","timestamp":"2023-11-04T14:59:15.628Z"}
+{"level":"info","message":"Petición para POST en / - 10:04:47","timestamp":"2023-11-04T15:04:47.659Z"}
+{"level":"info","message":"Petición para POST en / - 20:22:03","timestamp":"2023-11-05T01:22:03.232Z"}
+{"level":"info","message":"Petición para GET en / - 20:37:21","timestamp":"2023-11-05T01:37:21.382Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 20:38:13","timestamp":"2023-11-05T01:38:13.320Z"}
+{"level":"info","message":"Petición para POST en / - 20:39:19","timestamp":"2023-11-05T01:39:19.508Z"}
+{"level":"info","message":"Petición para POST en / - 20:39:29","timestamp":"2023-11-05T01:39:29.076Z"}
+{"level":"info","message":"Petición para GET en / - 20:39:38","timestamp":"2023-11-05T01:39:38.044Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 20:39:51","timestamp":"2023-11-05T01:39:51.996Z"}
+{"level":"info","message":"Petición para POST en / - 20:39:59","timestamp":"2023-11-05T01:39:59.721Z"}
+{"level":"info","message":"Petición para POST en / - 20:40:03","timestamp":"2023-11-05T01:40:03.027Z"}
+{"level":"info","message":"Petición para GET en / - 20:40:09","timestamp":"2023-11-05T01:40:09.744Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 20:44:44","timestamp":"2023-11-05T01:44:44.947Z"}
+{"level":"info","message":"Petición para POST en / - 20:44:47","timestamp":"2023-11-05T01:44:47.856Z"}
+{"level":"info","message":"Petición para POST en / - 20:45:25","timestamp":"2023-11-05T01:45:25.415Z"}
+{"level":"info","message":"Petición para POST en / - 20:47:27","timestamp":"2023-11-05T01:47:27.070Z"}
+{"level":"info","message":"Petición para POST en / - 20:48:20","timestamp":"2023-11-05T01:48:20.479Z"}
+{"level":"info","message":"Petición para POST en / - 20:48:42","timestamp":"2023-11-05T01:48:42.929Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 20:48:48","timestamp":"2023-11-05T01:48:48.157Z"}
+{"level":"info","message":"Petición para POST en / - 20:49:01","timestamp":"2023-11-05T01:49:01.237Z"}
+{"level":"info","message":"Petición para GET en / - 20:50:20","timestamp":"2023-11-05T01:50:20.087Z"}
+{"level":"info","message":"Petición para POST en / - 20:51:05","timestamp":"2023-11-05T01:51:05.648Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 20:51:15","timestamp":"2023-11-05T01:51:15.170Z"}
+{"level":"info","message":"Petición para POST en / - 20:51:19","timestamp":"2023-11-05T01:51:19.200Z"}
+{"level":"info","message":"Petición para POST en / - 20:51:24","timestamp":"2023-11-05T01:51:24.029Z"}
+{"level":"info","message":"Petición para GET en / - 20:51:32","timestamp":"2023-11-05T01:51:32.051Z"}
+{"level":"info","message":"Petición para POST en / - 20:51:41","timestamp":"2023-11-05T01:51:41.142Z"}
+{"level":"info","message":"Petición para GET en / - 20:56:08","timestamp":"2023-11-05T01:56:08.521Z"}
+{"level":"info","message":"Petición para POST en / - 20:56:14","timestamp":"2023-11-05T01:56:14.871Z"}
+{"level":"info","message":"Petición para GET en / - 20:56:21","timestamp":"2023-11-05T01:56:21.542Z"}
+{"level":"info","message":"Petición para GET en / - 20:56:25","timestamp":"2023-11-05T01:56:25.159Z"}
+{"level":"info","message":"Petición para GET en / - 20:56:29","timestamp":"2023-11-05T01:56:29.479Z"}
+{"level":"info","message":"Petición para GET en / - 21:01:13","timestamp":"2023-11-05T02:01:13.930Z"}
+{"level":"info","message":"Petición para POST en / - 21:01:24","timestamp":"2023-11-05T02:01:24.486Z"}
+{"level":"info","message":"Petición para GET en / - 21:01:46","timestamp":"2023-11-05T02:01:46.723Z"}
+{"level":"info","message":"Petición para POST en / - 21:02:11","timestamp":"2023-11-05T02:02:11.575Z"}
+{"level":"info","message":"Petición para POST en / - 21:03:59","timestamp":"2023-11-05T02:03:59.661Z"}
+{"level":"info","message":"Petición para POST en / - 21:06:44","timestamp":"2023-11-05T02:06:44.269Z"}
+{"level":"info","message":"Petición para GET en / - 21:10:39","timestamp":"2023-11-05T02:10:39.279Z"}
+{"level":"info","message":"Petición para POST en / - 21:13:04","timestamp":"2023-11-05T02:13:04.309Z"}
+{"level":"info","message":"Petición para GET en / - 21:13:26","timestamp":"2023-11-05T02:13:26.272Z"}
+{"level":"info","message":"Petición para POST en / - 21:16:21","timestamp":"2023-11-05T02:16:21.649Z"}
+{"level":"info","message":"Petición para GET en / - 21:16:29","timestamp":"2023-11-05T02:16:29.638Z"}
+{"level":"info","message":"Petición para POST en / - 21:19:04","timestamp":"2023-11-05T02:19:04.334Z"}
+{"level":"info","message":"Petición para GET en / - 21:19:12","timestamp":"2023-11-05T02:19:12.647Z"}
+{"level":"info","message":"Petición para GET en / - 21:20:57","timestamp":"2023-11-05T02:20:57.390Z"}
+{"level":"info","message":"Petición para GET en / - 21:22:15","timestamp":"2023-11-05T02:22:15.091Z"}
+{"level":"info","message":"Petición para PUT en /65240fecbe28a707f53c95ba/products/6546f5173a3239dbfbee9e91 - 21:22:56","timestamp":"2023-11-05T02:22:56.114Z"}
+{"level":"info","message":"Petición para GET en / - 21:23:10","timestamp":"2023-11-05T02:23:10.941Z"}
+{"level":"info","message":"Petición para GET en / - 21:24:58","timestamp":"2023-11-05T02:24:58.693Z"}
+{"level":"info","message":"Petición para POST en / - 21:25:23","timestamp":"2023-11-05T02:25:23.148Z"}
+{"level":"info","message":"Petición para GET en / - 21:26:30","timestamp":"2023-11-05T02:26:30.770Z"}
+{"level":"info","message":"Petición para POST en / - 21:26:38","timestamp":"2023-11-05T02:26:38.335Z"}
+{"level":"info","message":"Petición para GET en / - 21:26:50","timestamp":"2023-11-05T02:26:50.573Z"}
+{"level":"info","message":"Petición para GET en / - 21:26:52","timestamp":"2023-11-05T02:26:52.620Z"}
+{"level":"info","message":"Petición para DELETE en /65240fecbe28a707f53c95ba - 21:27:35","timestamp":"2023-11-05T02:27:35.516Z"}
+{"level":"info","message":"Petición para POST en / - 22:01:27","timestamp":"2023-11-05T03:01:27.566Z"}
+{"level":"info","message":"Petición para POST en / - 07:12:29","timestamp":"2023-11-05T12:12:29.082Z"}
+{"level":"info","message":"Petición para POST en / - 08:01:49","timestamp":"2023-11-05T13:01:49.682Z"}
+{"level":"info","message":"Petición para GET en / - 08:05:06","timestamp":"2023-11-05T13:05:06.811Z"}
+{"level":"info","message":"Petición para POST en / - 08:30:26","timestamp":"2023-11-05T13:30:26.194Z"}
+{"level":"info","message":"Petición para POST en / - 08:36:32","timestamp":"2023-11-05T13:36:32.094Z"}
+{"level":"info","message":"Petición para POST en / - 08:41:36","timestamp":"2023-11-05T13:41:36.016Z"}
+{"level":"info","message":"Petición para POST en / - 08:46:54","timestamp":"2023-11-05T13:46:54.466Z"}
+{"level":"info","message":"Petición para POST en / - 08:51:23","timestamp":"2023-11-05T13:51:23.826Z"}
+{"level":"info","message":"Petición para POST en / - 08:51:33","timestamp":"2023-11-05T13:51:33.578Z"}
+{"level":"info","message":"Petición para POST en / - 08:56:15","timestamp":"2023-11-05T13:56:15.874Z"}
+{"level":"info","message":"Petición para POST en / - 08:57:04","timestamp":"2023-11-05T13:57:04.040Z"}
+{"level":"info","message":"Petición para POST en / - 09:05:43","timestamp":"2023-11-05T14:05:43.316Z"}
+{"level":"info","message":"Petición para POST en / - 09:06:33","timestamp":"2023-11-05T14:06:33.763Z"}
+{"level":"info","message":"Petición para POST en /6547923dcee48fb34ef22552/purchase - 09:37:14","timestamp":"2023-11-05T14:37:14.671Z"}
+{"level":"info","message":"Petición para POST en / - 10:00:44","timestamp":"2023-11-05T15:00:44.142Z"}
+{"level":"info","message":"Petición para POST en / - 10:00:48","timestamp":"2023-11-05T15:00:48.486Z"}
+{"level":"info","message":"Petición para POST en / - 10:01:10","timestamp":"2023-11-05T15:01:10.821Z"}
+{"level":"info","message":"Petición para POST en / - 10:01:21","timestamp":"2023-11-05T15:01:21.918Z"}
+{"level":"info","message":"Petición para POST en / - 10:25:35","timestamp":"2023-11-06T15:25:35.097Z"}
+{"level":"info","message":"Petición para POST en / - 10:26:27","timestamp":"2023-11-06T15:26:27.741Z"}
+{"level":"info","message":"Petición para POST en / - 10:26:34","timestamp":"2023-11-06T15:26:34.671Z"}
+{"level":"info","message":"Petición para POST en / - 10:29:22","timestamp":"2023-11-06T15:29:22.927Z"}
+{"level":"info","message":"Petición para POST en / - 10:32:57","timestamp":"2023-11-06T15:32:57.105Z"}
+{"level":"info","message":"Petición para POST en / - 10:33:11","timestamp":"2023-11-06T15:33:11.645Z"}
+{"level":"info","message":"Petición para POST en / - 10:35:52","timestamp":"2023-11-06T15:35:52.378Z"}
+{"level":"info","message":"Petición para POST en / - 10:36:05","timestamp":"2023-11-06T15:36:05.896Z"}
+{"level":"info","message":"Petición para POST en / - 10:38:14","timestamp":"2023-11-06T15:38:14.052Z"}
+{"level":"info","message":"Petición para POST en / - 10:38:25","timestamp":"2023-11-06T15:38:25.460Z"}
+{"level":"info","message":"Petición para POST en / - 10:38:45","timestamp":"2023-11-06T15:38:45.468Z"}
+{"level":"info","message":"Petición para POST en / - 10:39:28","timestamp":"2023-11-06T15:39:28.886Z"}
+{"level":"info","message":"Petición para POST en / - 10:40:26","timestamp":"2023-11-06T15:40:26.072Z"}
+{"level":"info","message":"Petición para POST en / - 10:40:34","timestamp":"2023-11-06T15:40:34.388Z"}
+{"level":"info","message":"Petición para POST en / - 10:40:42","timestamp":"2023-11-06T15:40:42.395Z"}
+{"level":"info","message":"Petición para POST en / - 10:40:49","timestamp":"2023-11-06T15:40:49.246Z"}
+{"level":"info","message":"Petición para POST en / - 10:41:03","timestamp":"2023-11-06T15:41:03.295Z"}
+{"level":"info","message":"Petición para POST en / - 10:42:43","timestamp":"2023-11-06T15:42:43.361Z"}
+{"level":"info","message":"Petición para POST en / - 10:42:56","timestamp":"2023-11-06T15:42:56.790Z"}
+{"level":"info","message":"Petición para POST en / - 10:43:13","timestamp":"2023-11-06T15:43:13.916Z"}
+{"level":"info","message":"Petición para POST en / - 10:43:37","timestamp":"2023-11-06T15:43:37.374Z"}
+{"level":"info","message":"Petición para POST en / - 12:13:13","timestamp":"2023-11-06T17:13:13.638Z"}
+{"level":"info","message":"Petición para POST en / - 12:22:14","timestamp":"2023-11-06T17:22:14.688Z"}
+{"level":"error","message":"Error en la petición para POST en / - email is not defined - 12:23:58","timestamp":"2023-11-06T17:23:58.746Z"}
+{"level":"info","message":"Petición para POST en / - 12:24:21","timestamp":"2023-11-06T17:24:21.528Z"}
+{"level":"info","message":"Petición para POST en / - 12:25:16","timestamp":"2023-11-06T17:25:16.870Z"}
+{"level":"info","message":"Petición para POST en / - 12:28:13","timestamp":"2023-11-06T17:28:13.145Z"}
+{"level":"info","message":"Petición para POST en / - 12:28:32","timestamp":"2023-11-06T17:28:32.516Z"}
+{"level":"info","message":"Petición para POST en / - 12:29:09","timestamp":"2023-11-06T17:29:09.282Z"}
+{"level":"error","message":"Error en la petición para POST en / - userModel is not defined - 12:33:41","timestamp":"2023-11-06T17:33:41.801Z"}
+{"level":"info","message":"Petición para POST en / - 12:34:33","timestamp":"2023-11-06T17:34:33.235Z"}
+{"level":"info","message":"Petición para POST en / - 13:33:52","timestamp":"2023-11-06T18:33:52.093Z"}
+{"level":"info","message":"Petición para POST en / - 17:36:10","timestamp":"2023-11-06T22:36:10.951Z"}
+{"level":"info","message":"Petición para POST en / - 17:58:58","timestamp":"2023-11-06T22:58:58.156Z"}
+{"level":"info","message":"Petición para POST en / - 18:04:00","timestamp":"2023-11-06T23:04:00.740Z"}
+{"level":"info","message":"Petición para POST en / - 18:12:38","timestamp":"2023-11-06T23:12:38.375Z"}
+{"level":"info","message":"Petición para POST en / - 18:16:08","timestamp":"2023-11-06T23:16:08.258Z"}
+{"level":"info","message":"Petición para POST en / - 18:23:18","timestamp":"2023-11-06T23:23:18.175Z"}
+{"level":"info","message":"Petición para POST en / - 18:31:07","timestamp":"2023-11-06T23:31:07.778Z"}
+{"level":"info","message":"Petición para POST en / - 18:53:58","timestamp":"2023-11-06T23:53:58.805Z"}
+{"level":"info","message":"Petición para POST en / - 18:54:31","timestamp":"2023-11-06T23:54:31.506Z"}
+{"level":"info","message":"Petición para POST en / - 18:56:03","timestamp":"2023-11-06T23:56:03.971Z"}
+{"level":"info","message":"Petición para POST en / - 18:56:10","timestamp":"2023-11-06T23:56:10.879Z"}
+{"level":"info","message":"Petición para POST en / - 19:18:38","timestamp":"2023-11-07T00:18:38.165Z"}
+{"level":"info","message":"Petición para POST en / - 19:22:01","timestamp":"2023-11-07T00:22:01.994Z"}
+{"level":"info","message":"Petición para POST en / - 19:22:13","timestamp":"2023-11-07T00:22:13.933Z"}
+{"level":"info","message":"Petición para POST en / - 19:25:27","timestamp":"2023-11-07T00:25:27.823Z"}
+{"level":"info","message":"Petición para POST en / - 19:25:35","timestamp":"2023-11-07T00:25:35.243Z"}
+{"level":"info","message":"Petición para POST en / - 19:28:48","timestamp":"2023-11-07T00:28:48.373Z"}
+{"level":"info","message":"Petición para POST en / - 19:28:58","timestamp":"2023-11-07T00:28:58.939Z"}
+{"level":"info","message":"Petición para POST en / - 19:31:30","timestamp":"2023-11-07T00:31:30.143Z"}
+{"level":"info","message":"Petición para POST en / - 19:31:35","timestamp":"2023-11-07T00:31:35.964Z"}
+{"level":"info","message":"Petición para POST en / - 19:31:42","timestamp":"2023-11-07T00:31:42.119Z"}
+{"level":"info","message":"Petición para POST en / - 19:33:11","timestamp":"2023-11-07T00:33:11.747Z"}
+{"level":"info","message":"Petición para POST en / - 19:35:21","timestamp":"2023-11-07T00:35:21.942Z"}
+{"level":"info","message":"Petición para POST en / - 19:36:42","timestamp":"2023-11-07T00:36:42.709Z"}
+{"level":"info","message":"Petición para POST en / - 19:37:05","timestamp":"2023-11-07T00:37:05.847Z"}
+{"level":"info","message":"Petición para POST en / - 19:37:38","timestamp":"2023-11-07T00:37:38.956Z"}
+{"level":"info","message":"Petición para POST en / - 19:47:42","timestamp":"2023-11-07T00:47:42.521Z"}
+{"level":"info","message":"Petición para POST en / - 19:48:17","timestamp":"2023-11-07T00:48:17.763Z"}
+{"level":"info","message":"Petición para POST en / - 19:49:07","timestamp":"2023-11-07T00:49:07.650Z"}
+{"level":"info","message":"Petición para POST en / - 19:49:31","timestamp":"2023-11-07T00:49:31.062Z"}
+{"level":"info","message":"Petición para POST en / - 19:49:46","timestamp":"2023-11-07T00:49:46.802Z"}
+{"level":"info","message":"Petición para POST en / - 19:51:59","timestamp":"2023-11-07T00:51:59.249Z"}
+{"level":"info","message":"Petición para POST en / - 19:52:34","timestamp":"2023-11-07T00:52:34.764Z"}
+{"level":"info","message":"Petición para POST en / - 19:53:31","timestamp":"2023-11-07T00:53:31.177Z"}
+{"level":"info","message":"Petición para POST en / - 19:58:19","timestamp":"2023-11-07T00:58:19.017Z"}
+{"level":"info","message":"Petición para GET en / - 21:51:03","timestamp":"2023-11-07T02:51:03.476Z"}
+{"level":"info","message":"Petición para GET en /65497d13c3ad90cf4866bed9 - 21:53:21","timestamp":"2023-11-07T02:53:21.695Z"}
+{"level":"error","message":"Error en la petición para POST en / - idProductInCart is not defined - 08:47:41","timestamp":"2023-11-07T13:47:41.603Z"}
+{"level":"info","message":"Petición para POST en / - 08:48:45","timestamp":"2023-11-07T13:48:45.139Z"}
+{"level":"info","message":"Petición para POST en /6549869a5a2c825d2529aa50/purchase - 22:09:09","timestamp":"2023-11-08T03:09:09.750Z"}
+{"level":"info","message":"Petición para POST en /6549856d5a2c825d2529aa22/purchase - 22:17:12","timestamp":"2023-11-08T03:17:12.918Z"}
+{"level":"error","message":"Error en la petición para POST en /6549856d5a2c825d2529aa22/purchase - this.findOneAndRemove is not a function - 22:18:27","timestamp":"2023-11-08T03:18:27.542Z"}
+{"level":"error","message":"Error en la petición para POST en /654985615a2c825d2529aa0a/purchase - this.findOneAndRemove is not a function - 22:23:33","timestamp":"2023-11-08T03:23:33.256Z"}
+{"level":"error","message":"Error en la petición para POST en /65497d13c3ad90cf4866bed9/purchase - this.cartDAO.deleterCart is not a function - 22:26:48","timestamp":"2023-11-08T03:26:48.577Z"}
+{"level":"info","message":"Petición para POST en / - 22:27:21","timestamp":"2023-11-08T03:27:21.724Z"}
+{"level":"info","message":"Petición para POST en /654985615a2c825d2529aa0a/purchase - 22:27:31","timestamp":"2023-11-08T03:27:31.633Z"}
+{"level":"info","message":"Petición para POST en / - 22:40:08","timestamp":"2023-11-08T03:40:08.278Z"}
+{"level":"error","message":"Error en la petición para POST en /6549856d5a2c825d2529aa22/purchase - userId is not defined - 22:40:24","timestamp":"2023-11-08T03:40:24.603Z"}
+{"level":"info","message":"Petición para POST en / - 22:42:49","timestamp":"2023-11-08T03:42:49.962Z"}
+{"level":"error","message":"Error en la petición para POST en /6549869a5a2c825d2529aa50/purchase - email is not defined - 22:43:02","timestamp":"2023-11-08T03:43:02.454Z"}
+{"level":"info","message":"Petición para POST en / - 22:44:36","timestamp":"2023-11-08T03:44:36.234Z"}
+{"level":"info","message":"Petición para POST en /6549869a5a2c825d2529aa50/purchase - 22:44:48","timestamp":"2023-11-08T03:44:48.202Z"}
+{"level":"info","message":"Petición para POST en / - 22:45:41","timestamp":"2023-11-08T03:45:41.480Z"}
+{"level":"info","message":"Petición para POST en / - 22:45:49","timestamp":"2023-11-08T03:45:49.826Z"}
+{"level":"info","message":"Petición para POST en / - 22:46:39","timestamp":"2023-11-08T03:46:39.200Z"}
+{"level":"info","message":"Petición para POST en /654b0465f39aedd070b89b73/purchase - 22:46:50","timestamp":"2023-11-08T03:46:50.848Z"}
+{"level":"info","message":"Petición para POST en / - 19:52:23","timestamp":"2023-11-10T00:52:23.081Z"}
+{"level":"info","message":"Petición para POST en / - 08:16:10","timestamp":"2023-11-11T13:16:10.231Z"}
+{"level":"info","message":"Petición para POST en / - 08:16:19","timestamp":"2023-11-11T13:16:19.467Z"}
+{"level":"info","message":"Petición para POST en /654b0465f39aedd070b89b73/purchase - 08:46:10","timestamp":"2023-11-11T13:46:10.766Z"}
+{"level":"info","message":"Petición para DELETE en /654b0465f39aedd070b89b73/products/6522e7c29440da5fa4ce32fd - 09:02:01","timestamp":"2023-11-11T14:02:01.083Z"}
+{"level":"info","message":"Petición para DELETE en /654d7ec65473a8260cc1d7de/products/6522e7c29440da5fa4ce33ff - 09:16:47","timestamp":"2023-11-11T14:16:47.759Z"}
+{"level":"info","message":"Petición para POST en / - 09:25:17","timestamp":"2023-11-11T14:25:17.537Z"}
+{"level":"info","message":"Petición para POST en / - 09:25:20","timestamp":"2023-11-11T14:25:20.758Z"}
+{"level":"info","message":"Petición para DELETE en /654b0465f39aedd070b89b73/products/6522e7c29440da5fa4ce32fd - 09:29:19","timestamp":"2023-11-11T14:29:19.522Z"}
+{"level":"info","message":"Petición para DELETE en /654b0465f39aedd070b89b73/products/6522e7c29440da5fa4ce32e0 - 09:31:42","timestamp":"2023-11-11T14:31:42.004Z"}
+{"level":"info","message":"Petición para POST en / - 09:33:03","timestamp":"2023-11-11T14:33:03.162Z"}
+{"level":"info","message":"Petición para POST en / - 09:33:13","timestamp":"2023-11-11T14:33:13.956Z"}
+{"level":"info","message":"Petición para POST en / - 09:33:33","timestamp":"2023-11-11T14:33:33.540Z"}
+{"level":"info","message":"Petición para POST en / - 09:35:09","timestamp":"2023-11-11T14:35:09.253Z"}
+{"level":"info","message":"Petición para DELETE en /654b0465f39aedd070b89b73/products/6522e7c29440da5fa4ce32eb - 09:37:36","timestamp":"2023-11-11T14:37:36.916Z"}
+{"level":"info","message":"Petición para DELETE en /654b0465f39aedd070b89b73/products/6522e7c29440da5fa4ce346a - 09:56:13","timestamp":"2023-11-11T14:56:13.466Z"}
+{"level":"info","message":"Petición para DELETE en /654b0465f39aedd070b89b73/products/6522e7c29440da5fa4ce343d - 09:56:19","timestamp":"2023-11-11T14:56:19.435Z"}
+{"level":"info","message":"Petición para DELETE en /654d7ec65473a8260cc1d7de/products/6522e7c29440da5fa4ce32de - 09:56:23","timestamp":"2023-11-11T14:56:23.208Z"}
+{"level":"info","message":"Petición para DELETE en /654f90a9b2ea46e938187cff/products/6522e7c29440da5fa4ce3360 - 09:56:24","timestamp":"2023-11-11T14:56:24.731Z"}
+{"level":"info","message":"Petición para POST en / - 10:15:10","timestamp":"2023-11-11T15:15:10.465Z"}
+{"level":"info","message":"Petición para DELETE en /654f9a7e284d226a49e5b78c/products/6522e7c29440da5fa4ce32eb - 10:15:17","timestamp":"2023-11-11T15:15:17.810Z"}
+{"level":"info","message":"Petición para POST en / - 10:17:36","timestamp":"2023-11-11T15:17:36.811Z"}
+{"level":"info","message":"Petición para DELETE en /654f9b10284d226a49e5b7ba/products/6522e7c29440da5fa4ce32dd - 10:17:47","timestamp":"2023-11-11T15:17:47.086Z"}
+{"level":"info","message":"Petición para POST en / - 16:33:07","timestamp":"2023-11-11T21:33:07.648Z"}
+{"level":"info","message":"Petición para DELETE en /654ff313dcaa1d6c54cf51c0/products/6522e7c29440da5fa4ce32eb - 16:37:49","timestamp":"2023-11-11T21:37:49.753Z"}
+{"level":"info","message":"Petición para POST en / - 16:41:38","timestamp":"2023-11-11T21:41:38.495Z"}
+{"level":"info","message":"Petición para POST en / - 16:41:43","timestamp":"2023-11-11T21:41:43.591Z"}
+{"level":"info","message":"Petición para POST en / - 16:41:48","timestamp":"2023-11-11T21:41:48.320Z"}
+{"level":"info","message":"Petición para DELETE en /654ff511dcaa1d6c54cf51e4/products/6522e7c29440da5fa4ce32dd - 16:45:35","timestamp":"2023-11-11T21:45:35.748Z"}
+{"level":"info","message":"Petición para DELETE en /654ff511dcaa1d6c54cf51e4/products/6522e7c29440da5fa4ce32de - 16:45:38","timestamp":"2023-11-11T21:45:38.661Z"}
+{"level":"info","message":"Petición para DELETE en /654ff511dcaa1d6c54cf51e4/products/6522e7c29440da5fa4ce32fd - 16:45:39","timestamp":"2023-11-11T21:45:39.914Z"}
+{"level":"info","message":"Petición para POST en / - 16:49:02","timestamp":"2023-11-11T21:49:02.018Z"}
+{"level":"info","message":"Petición para DELETE en /654ff6cddcaa1d6c54cf5240/products/6522e7c29440da5fa4ce32eb - 17:02:16","timestamp":"2023-11-11T22:02:16.103Z"}
+{"level":"info","message":"Petición para POST en / - 17:05:10","timestamp":"2023-11-11T22:05:10.813Z"}
+{"level":"info","message":"Petición para DELETE en /654ffa95b61f0f7fab5f58ea/products/6522e7c29440da5fa4ce32eb - 17:12:45","timestamp":"2023-11-11T22:12:45.074Z"}
+{"level":"info","message":"Petición para POST en / - 17:17:03","timestamp":"2023-11-11T22:17:03.303Z"}
+{"level":"info","message":"Petición para DELETE en /654ffd5fd41c83d1cf877f0d/products/6522e7c29440da5fa4ce32e0 - 17:17:10","timestamp":"2023-11-11T22:17:10.003Z"}
+{"level":"info","message":"Petición para POST en / - 17:17:50","timestamp":"2023-11-11T22:17:50.129Z"}
+{"level":"info","message":"Petición para DELETE en /654ffd8dd41c83d1cf877f29/products/6522e7c29440da5fa4ce32de - 17:30:21","timestamp":"2023-11-11T22:30:21.664Z"}
+{"level":"info","message":"Petición para POST en / - 17:30:30","timestamp":"2023-11-11T22:30:30.675Z"}
+{"level":"info","message":"Petición para POST en / - 17:30:35","timestamp":"2023-11-11T22:30:35.279Z"}
+{"level":"info","message":"Petición para POST en /premium/654276a7def50c76a9c90fa2 - 17:30:48","timestamp":"2023-11-11T22:30:48.080Z"}
+{"level":"error","message":"Error en la petición para POST en /65500086ddd2f1036197aae6/purchase - purchasedProducts is not defined - 17:54:41","timestamp":"2023-11-11T22:54:41.122Z"}
+{"level":"info","message":"Petición para POST en /65500086ddd2f1036197aae6/purchase - 17:55:55","timestamp":"2023-11-11T22:55:55.827Z"}
+{"level":"info","message":"Petición para POST en / - 18:27:01","timestamp":"2023-11-11T23:27:01.973Z"}
+{"level":"info","message":"Petición para POST en / - 18:27:07","timestamp":"2023-11-11T23:27:07.475Z"}
+{"level":"info","message":"Petición para POST en / - 18:27:12","timestamp":"2023-11-11T23:27:12.772Z"}
+{"level":"info","message":"Petición para POST en / - 18:27:20","timestamp":"2023-11-11T23:27:20.077Z"}
+{"level":"error","message":"Error en la petición para POST en /65500dc53a0913d2e1acbd66/purchase - token is not defined - 18:27:34","timestamp":"2023-11-11T23:27:34.075Z"}
+{"level":"info","message":"Petición para POST en /65500dd03a0913d2e1acbd82/purchase - 18:28:11","timestamp":"2023-11-11T23:28:11.015Z"}
+{"level":"info","message":"Petición para POST en / - 18:31:42","timestamp":"2023-11-11T23:31:42.841Z"}
+{"level":"info","message":"Petición para POST en / - 18:31:50","timestamp":"2023-11-11T23:31:50.388Z"}
+{"level":"info","message":"Petición para POST en /65500ede0f1debd211213d1d/purchase - 18:32:17","timestamp":"2023-11-11T23:32:17.490Z"}
+{"level":"info","message":"Petición para POST en / - 18:35:03","timestamp":"2023-11-11T23:35:03.073Z"}
+{"level":"info","message":"Petición para POST en /65500fa60f1debd211213d5b/purchase - 18:35:40","timestamp":"2023-11-11T23:35:40.929Z"}
+{"level":"info","message":"Petición para GET en / - 11:01:00","timestamp":"2023-11-12T16:01:00.846Z"}
+{"level":"info","message":"Petición para POST en / - 11:13:13","timestamp":"2023-11-12T16:13:13.725Z"}
+{"level":"info","message":"Petición para POST en / - 11:13:40","timestamp":"2023-11-12T16:13:40.284Z"}
+{"level":"info","message":"Petición para PUT en /6550f9b34e215dc8e4887654 - 11:14:51","timestamp":"2023-11-12T16:14:51.088Z"}
+{"level":"info","message":"Petición para GET en / - 11:30:14","timestamp":"2023-11-12T16:30:14.263Z"}
+{"level":"info","message":"Petición para GET en / - 11:30:44","timestamp":"2023-11-12T16:30:44.513Z"}
+{"level":"info","message":"Petición para GET en / - 11:30:46","timestamp":"2023-11-12T16:30:46.425Z"}
+{"level":"info","message":"Petición para GET en /65497d13c3ad90cf4866bed9 - 11:31:49","timestamp":"2023-11-12T16:31:49.240Z"}
+{"level":"info","message":"Petición para GET en / - 11:36:22","timestamp":"2023-11-12T16:36:22.339Z"}
+{"level":"info","message":"Petición para POST en / - 11:37:02","timestamp":"2023-11-12T16:37:02.681Z"}
+{"level":"info","message":"Petición para GET en / - 11:37:19","timestamp":"2023-11-12T16:37:19.650Z"}
+{"level":"info","message":"Petición para DELETE en /6550ff2e76251dc1720d55ea/products/6522e7c29440da5fa4ce32fd - 11:38:15","timestamp":"2023-11-12T16:38:15.844Z"}
+{"level":"info","message":"Petición para POST en / - 11:40:22","timestamp":"2023-11-12T16:40:22.856Z"}
+{"level":"info","message":"Petición para GET en / - 11:40:41","timestamp":"2023-11-12T16:40:41.567Z"}
+{"level":"info","message":"Petición para POST en / - 11:41:06","timestamp":"2023-11-12T16:41:06.181Z"}
+{"level":"info","message":"Petición para POST en /6550fff6a10cb9d6b7ef0760/purchase - 11:45:21","timestamp":"2023-11-12T16:45:21.605Z"}
+{"level":"info","message":"Petición para POST en /premium/65500f8b0f1debd211213d52 - 12:08:11","timestamp":"2023-11-12T17:08:11.543Z"}

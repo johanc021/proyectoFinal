@@ -1,0 +1,38 @@
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+<div class="container">
+    <h2>Carritos de compra</h2>
+</div>
+{{#if carts.length}}
+{{#each carts}}
+<div class="cart">
+    <p class="cart-id">ID del Carrito: {{this._id}}</p>
+    <h5>Productos:</h5>
+    {{#each this.products}}
+    <div class="product">
+        <div class="product-image">
+            <img src="{{this.product.thumbnail}}" alt="Imagen del Producto">
+        </div>
+        <p class="product-title">Título: {{this.product.title}}</p>
+        <p class="product-description">Descripción: {{this.product.description}}</p>
+        <p class="product-price">Precio: ${{this.product.price}}</p>
+        <p class="product-quantity">Cantidad: {{this.quantity}}</p>
+        <p class="product-total">Total del Producto: ${{this.total}}</p>
+        <button class="delete-product-button" data-cart-id="{{../_id}}" data-product-id="{{this.product._id}}">Eliminar
+            del carrito</button>
+    </div>
+    {{/each}}
+    <p class="cart-total">Total del Carrito: ${{this.cartTotal}}</p>
+    <button class="buy-button" data-cart-id="{{this._id}}">Comprar</button>
+</div>
+{{/each}}
+{{else}}
+<div class="container mt-5">
+    <p>No hay carritos disponibles.</p>
+
+</div>
+{{/if}}
+
+
+<script src="/js/checkout.js"></script>
+<script src="/js/deleteProduct.js"></script>

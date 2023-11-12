@@ -1,0 +1,24 @@
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+<div class="container">
+    <h1>Actualizar Rol</h1>
+    <form id="updateRoleForm">
+        <label for="user">Seleccionar Usuario:</label>
+        <select name="user">
+            {{#each users}}
+            <option value="{{_id}}">{{first_name}} - ({{email}})</option>
+            {{/each}}
+        </select>
+    
+        <label for="role">Seleccionar Rol:</label>
+        <select name="role" id="role">
+            <option value="user">Usuario</option>
+            <option value="premium">Premium</option>
+            <option value="admin">Administrador</option>
+        </select>
+    
+        <button type="submit">Actualizar Rol</button>
+    </form>
+</div>
+
+<script src="/js/updateRoleUser.js"></script>

@@ -1,0 +1,669 @@
+openapi: 3.0.1
+info:
+  title: Documentación de las APIs de Carritos
+  description: Documentación de las APIs para gestionar carritos de compras
+  version: 1.0.0
+
+paths:
+  /api/cart:
+    get:
+      summary: Obtiene todos los carritos
+      tags:
+        - Carritos
+      parameters:
+        - name: No requiere parametros
+          description: No requiere parametros para obtener los carritos
+      responses:
+        '200':
+          description: Respuesta exitosa
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Cart'
+                example:
+                  carts:
+                    - _id: 64e772d0c297bba756595a5e
+                      products: []
+                      __v: 20
+                    - _id: 64e77319c297bba756595a6a
+                      products:
+                      - product:
+                          _id: 651634a058f6a1d9bcad93b5
+                          title: Intelligent Concrete Chips
+                          description: Asperiores soluta cupiditate officiis hic.
+                          code: 41MAQMW
+                          price: 336
+                          status: true
+                          stock: 49
+                          category: Sports
+                          thumbnail: https://loremflickr.com/640/480?lock=5773208189927424
+                          owner: admin
+                          __v: 0
+                        quantity: 15
+                        _id: 6516389dc7a487c859210e54
+                      __v: 28
+        '401':
+          description: No autorizado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No está autorizado para acceder a este recurso"
+        '500':
+              description: Error en el servidor
+              content:
+                application/json:
+                  schema:
+                    type: object
+                    properties:
+                      error:
+                        type: string
+                        description: Descripción del error
+                    example:
+                      error: "Error en el servidor"
+
+    post:
+      summary: Crea un nuevo carrito
+      tags:
+        - Carritos
+      parameters:
+        - name: idCart
+          in: path
+          required: true
+          description: Id del carrito a agregar producto (opcional, sino se crea un nuevo carrito)
+          schema:
+           $type: objectId
+        - name: idProduct
+          in: path
+          required: true
+          description: Id del producto a agregar al carrito
+          schema:
+           $type: objectId
+        - name: quantity
+          in: path
+          required: true
+          description: Cantidad del producto
+          schema:
+           $type: Number
+        
+      requestBody:
+        description: Datos para crear un nuevo carrito
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Cart'
+            example:
+              idCart: "64e77319c297bba756595a6a"
+              idProduct: "5f3a2d2f5b2d4f2a1c6e8d4f"
+              quantity: 2
+      responses:
+        '200':
+          description: Carrito creado correctamente
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Cart'
+              example:
+                idCart: "64e77319c297bba756595a6a"
+                idProduct: "5f3a2d2f5b2d4f2a1c6e8d4f"
+                quantity: 6
+        '401':
+          description: No autorizado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No está autorizado para acceder a este recurso"
+
+        '403':
+          description: No tiene los permisos necesarios
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No tiene los permisos necesarios para acceder a este recurso"
+        '500':
+              description: Error en el servidor
+              content:
+                application/json:
+                  schema:
+                    type: object
+                    properties:
+                      error:
+                        type: string
+                        description: Descripción del error
+                    example:
+                      error: "Error en el servidor"
+
+  /api/cart/{cartId}:
+    parameters:
+      - name: cartId
+        in: path
+        description: ID del carrito
+        required: true
+        schema:
+          type: string
+    get:
+      summary: Obtiene un carrito por su ID
+      tags:
+        - Carritos
+      responses:
+        '200':
+          description: Respuesta exitosa
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Cart'
+              example:
+                cart:
+                  _id: 64e772d0c297bba756595a5e
+                  products: []
+                  __v: 20
+        '401':
+          description: No autorizado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No está autorizado para acceder a este recurso"
+
+        '404':
+          description: Carrito no encontrado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "El carrito especificado no fue encontrado"
+        '500':
+              description: Error en el servidor
+              content:
+                application/json:
+                  schema:
+                    type: object
+                    properties:
+                      error:
+                        type: string
+                        description: Descripción del error
+                    example:
+                      error: "Error en el servidor"
+
+    put:
+      summary: Actualiza un carrito por su ID
+      tags:
+        - Carritos
+      parameters:
+        - name: cartId
+          in: path
+          description: ID del carrito
+          required: true
+          schema:
+            type: string
+        - name: product
+          in: query
+          description: productos nuevos en el carrito
+          required: true
+          schema:
+            type: objectId
+      requestBody:
+        description: Datos actualizados del carrito
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Cart'
+            example: 
+              cid: 64e772d0c297bba756595a5e
+              products:
+                product: 64b5f0ae4cff50135172ff27
+        examples:
+          example1:
+            summary: Ejemplo de actualización de carrito
+            value:
+              products:
+                - product: "5f3a2d2f5b2d4f2a1c6e8d4f"
+                  quantity: 3
+      responses:
+        '200':
+          description: Carrito actualizado correctamente
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Cart'
+              example:
+                cart:
+                  _id: 64e772d0c297bba756595a5e
+                  products:
+                  - product: 651634a058f6a1d9bcad93b7
+                    quantity: 1
+                    _id: 651b07fa97550a2469c648a7
+                  - product: 651634a058f6a1d9bcad93bb
+                    quantity: 1
+                    _id: 651b07fa97550a2469c648a8
+                  __v: 21
+        '401':
+          description: No autorizado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No está autorizado para acceder a este recurso"
+        '403':
+          description: No tiene los permisos necesarios
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No tiene los permisos necesarios para acceder a este recurso"
+        '404':
+          description: Carrito no encontrado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "El carrito especificado no fue encontrado"
+        '500':
+              description: Error en el servidor
+              content:
+                application/json:
+                  schema:
+                    type: object
+                    properties:
+                      error:
+                        type: string
+                        description: Descripción del error
+                    example:
+                      error: "Error en el servidor"
+
+    delete:
+      summary: Elimina un carrito por su ID
+      tags:
+        - Carritos
+      parameters:
+        - name: cartId
+          in: path
+          description: ID del carrito
+          required: true
+          schema:
+            type: string
+        - name: cid
+          in: query
+          description: ID del carrito
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Carrito eliminado correctamente
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: string
+                    description: Descripción del estado
+                example:
+                  success: "Recurlo eliminado correctamente"
+        '401':
+          description: No autorizado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No está autorizado para acceder a este recurso"
+        '403':
+          description: No tiene los permisos necesarios
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No tiene los permisos necesarios para acceder a este recurso"
+        '404':
+          description: Carrito no encontrado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "El carrito especificado no fue encontrado"
+        '500':
+              description: Error en el servidor
+              content:
+                application/json:
+                  schema:
+                    type: object
+                    properties:
+                      error:
+                        type: string
+                        description: Descripción del error
+                    example:
+                      error: "Error en el servidor"
+
+  /api/cart/{cartId}/products/{productId}:
+    parameters:
+      - name: cartId
+        in: path
+        description: ID del carrito
+        required: true
+        schema:
+          type: string
+      - name: productId
+        in: path
+        description: ID del producto
+        required: true
+        schema:
+          type: string
+    delete:
+      summary: Elimina un producto del carrito
+      tags:
+        - Carritos
+      parameters:
+        - name: cartId
+          in: path
+          description: ID del carrito
+          required: true
+          schema:
+            type: string
+        - name: productId
+          in: path
+          description: ID del producto
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Producto eliminado correctamente del carrito
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: string
+                    description: Descripción del estado
+                example:
+                  success: "Producto eliminado correctamente"
+        '401':
+          description: No autorizado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No está autorizado para acceder a este recurso"
+        '403':
+          description: No tiene los permisos necesarios
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No tiene los permisos necesarios para acceder a este recurso"
+        '404':
+          description: Producto o carrito no encontrado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "El producto o el carrito no fue encontrado"
+        '500':
+              description: Error en el servidor
+              content:
+                application/json:
+                  schema:
+                    type: object
+                    properties:
+                      error:
+                        type: string
+                        description: Descripción del error
+                    example:
+                      error: "Error en el servidor"
+
+    put:
+      summary: Actualiza la cantidad de un producto en el carrito
+      tags:
+        - Carritos
+      parameters:
+        - name: cartId
+          in: path
+          description: ID del carrito
+          required: true
+          schema:
+            type: string
+        - name: productId
+          in: path
+          description: ID del producto
+          required: true
+          schema:
+            type: string
+        - name: quantity
+          in: query
+          description: Nueva cantidad del producto
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        '200':
+          description: Cantidad de producto actualizada correctamente
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: string
+                    description: Descripción del estado
+                example:
+                  success: "Cantidad del producto actualizada"
+        '401':
+          description: No autorizado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No está autorizado para acceder a este recurso"
+        '403':
+          description: No tiene los permisos necesarios
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "No tiene los permisos necesarios para acceder a este recurso"
+        '404':
+          description: Producto o carrito no encontrado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    description: Descripción del error
+                example:
+                  error: "El producto o el carrito no fue encontrado"
+        '500':
+              description: Error en el servidor
+              content:
+                application/json:
+                  schema:
+                    type: object
+                    properties:
+                      error:
+                        type: string
+                        description: Descripción del error
+                    example:
+                      error: "Error en el servidor"
+
+  /api/cart/{cartId}/purchase:
+    post:
+        summary: Realiza una compra con los productos del carrito
+        tags:
+          - Carritos
+        parameters:
+          - name: cartId
+            in: path
+            description: ID del carrito
+            required: true
+            schema:
+              type: string
+        responses:
+          '200':
+            description: Compra realizada correctamente
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    success:
+                      type: string
+                      description: Descripción del estado
+                  example:
+                    success: "Compra realizada correctamente"
+          '401':
+            description: No autorizado
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    error:
+                      type: string
+                      description: Descripción del error
+                  example:
+                    error: "No está autorizado para acceder a este recurso"
+          '403':
+            description: No tiene los permisos necesarios
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    error:
+                      type: string
+                      description: Descripción del error
+                  example:
+                    error: "No tiene los permisos necesarios para acceder a este recurso"
+          '404':
+            description: Carrito no encontrado
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    error:
+                      type: string
+                      description: Descripción del error
+                  example:
+                    error: "El carrito especificado no fue encontrado"
+          '500':
+              description: Error en el servidor
+              content:
+                application/json:
+                  schema:
+                    type: object
+                    properties:
+                      error:
+                        type: string
+                        description: Descripción del error
+                    example:
+                      error: "Error en el servidor"
+
+components:
+  schemas:
+    Cart:
+      type: object
+      properties:
+        products:
+          type: array
+          description: Lista de productos en el carrito
+          items:
+            type: object
+            properties:
+              product:
+                type: string
+                description: ID del producto en el carrito
+              quantity:
+                type: integer
+                description: Cantidad del producto en el carrito
+          default: []
