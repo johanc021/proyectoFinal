@@ -70,7 +70,7 @@ app.use('/', appViewsRouter)
 
 
 const server = app.listen(config.mongo.PORT, () => {
-    console.log("Servidor levantado en http://localhost:8080")
+    console.log("Servidor levantado")
 })
 
 const socketServer = new Server(server)
