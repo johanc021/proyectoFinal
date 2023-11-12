@@ -6,7 +6,7 @@ Inicio de sesión:
 
 http://localhost:8080/login
 
-Usuario registrado -> adminCoder@coder.com
+Usuario registrado -> admincoder@coder.com
 Contraseña -> adminCod3r123
 
 ---
