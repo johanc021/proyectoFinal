@@ -53,7 +53,6 @@ if (process.env.APP_ENV === 'PRODUCTION') {
         ]
     });
 } else {
-    console.log("entras aqui")
     logger = winston.createLogger({
         levels: levelOptions.levels,
         transports: [
