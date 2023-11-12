@@ -12,9 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@faker-js/faker": "^8.0.2",
-    "chai": "^4.3.10",
-    "mocha": "^10.2.0"
+    
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
@@ -45,6 +43,9 @@
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0",
     "sweetalert2": "^11.9.0",
-    "winston": "^3.10.0"
+    "winston": "^3.10.0",
+    "@faker-js/faker": "^8.0.2",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
   }
 }
