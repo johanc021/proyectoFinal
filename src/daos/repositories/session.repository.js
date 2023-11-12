@@ -49,6 +49,18 @@ class SessionsService {
         });
     }
 
+    async gitHub(req, res, next) {
+        passport.authenticate('github', { scope: ['user:email'] })(req, res, next);
+    }
+
+    async gitHubCallback(req, res, next) {
+        passport.authenticate('github', { failureRedirect: "/login" })(req, res, next, async () => {
+            req.user = req.user
+            res.redirect('/profile');
+        });
+    }
+
+
     async sendEmailToken(req, res) {
         const { email } = req.body;
 

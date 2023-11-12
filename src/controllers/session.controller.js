@@ -15,13 +15,18 @@ class SessionsController {
 
     async sendEmailToken(req, res) {
         await SessionsRepository.sendEmailToken(req, res)
-        /* const { email } = req.body
-        console.log(email) */
-
     }
 
     async verifyToken(req, res) {
         await SessionsRepository.verifyToken(req, res)
+    }
+
+    async gitHub(req, res) {
+        await SessionsRepository.gitHub(req, res)
+    }
+
+    async gitHubCallback(req, res) {
+        await SessionsRepository.gitHubCallback(req, res)
     }
 
     async logout(req, res) {

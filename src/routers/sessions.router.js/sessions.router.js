@@ -16,6 +16,8 @@ class SessionsRouter {
         this.router.post("/resetPassword", SessionsController.resetPassword);
         this.router.post("/logout", authenticate, SessionsController.logout);
         this.router.get("/current", authenticate, SessionsController.current);
+        this.router.get("/github", SessionsController.gitHub);
+        this.router.get("/githubcallback", SessionsController.gitHubCallback)
     }
 
     getRouter() {
